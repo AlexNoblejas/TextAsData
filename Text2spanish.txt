@@ -1,0 +1,1723 @@
+POR QUÉ LA RESISTENCIA
+CIVIL FUNCIONA: LA
+LÓGICA ESTRATÉGICA DEL
+CONFLICTO NO VIOLENTO
+WHY CIVIL RESISTANCE WORKS: THE STRATEGIC LOGIC OF
+NONVIOLENT CONFLICT (ARTICLE)
+
+MARIA STEPHAN AND ERICA CHENOWETH
+INTERNATIONAL SECURITY, COLUMBIA UNIVERSITY PRESS,2008
+TRANSLATION: NONVIOLENT EDUCATION AND RESEARCH CENTER, JANUARY 2011
+ TRANSLATOR’S NOTES
+
+
+
+
+Translated and individually evaluated
+    POR QUÉLA RESISTENCIA CIVIL María J. Stephan y
+                     FUNCIONA     Érica Chenoweth
+                                            La lógica estratégica del
+                                               conflicto no violento
+
+        El supuesto de que los medios más eficaces de lucha política presuponen que la violencia se
+encuentra implícita en los recientes debates académicos sobre la eficacia de los diferentes métodos de
+guerra.1 La opinión dominante entre los politólogos es que los movimientos de oposición optan por
+métodos violentos porque los encuentran más eficaces que las estrategias no violentas para lograr sus
+objetivos políticos.2 A pesar de lo anterior, desde el 2000 hasta el 2006, diversos grupos civiles
+organizados en Serbia (2000), Madagascar (2002), Georgia (2003), Ucrania (2004-2005), Líbano (2005) y
+Nepal (2006)3 utilizaron exitosamente diferentes métodos no violentos como los boicots, las huelgas,
+
+         ________________________________________________________________________
+______
+
+María J. Stephan es Directora de Iniciativas Educativas del International Center on Nonviolent Conflict. Érica
+Chenoweth es Profesora Adjunta de Gobierno de Wesleyan University y miembro posdoctoral del Belfer Center for
+Science and International Affairs de la John F. Kennedy School of Government de la Universidad de Harvard.
+_____________________________________________________________________________________________
+
+Los autores aparecen en la lista en orden aleatorio y sus aportes han sido de igual peso. Los autores quisieran
+agradecer a Peter Ackerman, Douglas Bond, Jonathan Caverley, Howard Clark, Alexander Downes, Jack DuVall,
+Roy Eidelson, Matthew Fuhrmann, Matthew Kroenig, Adria Lawrence, Jason Lyall, Brian Martin, Doug McAdam,
+Amado Mendoza, Hardy Merriman, Wendy Pearlman, Regine Spector, Monica Duffy Toft, Ned Walker, Stephen
+Zunes, los revisores anónimos y los participantes del International Security Program del Belfer Center for Science
+and International Affairs de la Universidad de Harvard por sus comentarios valiosos sobre las versiones preliminares
+de este artículo. Elizabeth Wells además prestó ayuda valiosa en la investigación.
+
+
+
+1
+  Robert A. Pape, Dying to Win: The Strategic Logic of Suicide Terror (Nueva York: Random House, 2005); Robert A. Pape,
+Bombing to Win: Air Power and Coercion in War (Ithaca, N.Y.: Cornell University Press, 1996); Daniel L. Byman y Matthew C.
+Waxman, “Kosovo and the Great Air PowerDebate”, International Security, Vol. 24, No. 4 (primavera boreal del 2000), pág. 5 a
+38; Daniel L. Byman, Matthew C. Waxman, y Eric V. Larson, Air Power as a Coercive Instrument (Washington, D.C.: RAND,
+1999); Daniel Byman y Matthew Waxman, The Dynamics of Coercion: American Foreign Policy and the Limits of Military
+Might (Nueva York: Cambridge University Press, 2002); Michael Horowitz y Dan Reiter, “When Does Aerial Bombing Work?
+Quantitative Empirical Tests, 1917–1999”, Journal of ConflictResolution, Vol. 45, No. 2 (abril del 2001), pág. 147 a 173; Max
+Abrahms, “Why Terrorism Does Not Work”, International Security, Vol. 31, No. 2 (otoño boreal del 2006), pág. 42 a 78; Gary
+Clyde Hufbauer, Jeffrey J. Schott, y Kimberly Ann Elliott, Economic Sanctions Reconsidered: History and Current Policy
+(Washington, D.C.: Institute of International Economics, 1992); Robert A. Pape, “Why Economic Sanctions Do Not Work”,
+International Security, Vol. 22, No. 2 (otoño boral de 1997), pág. 90 a 136; Lisa L. Martin, Coercive Cooperation: Explaining
+Multilateral Sanctions (Princeton, N.J.: Princeton University Press, 1992); Jaleh Dashti-Gibson, Patricia Davis, y Benjamin
+Radcliff, “On the Determinants of the Success of Economic Sanctions: An Empirical Analysis”, American Journal of Political
+Science, Vol. 41, No. 2 (abril de 1997), pág. 608 a 618; A. Cooper Drury, “Revisiting Economic Sanctions Reconsidered,”
+Journal of Peace Research, Vol. 35, No. 4 (julio de 1998), pág. 497 a 509; Ivan Arreguín-Toft, How the Weak Win Wars: A
+Theory of Asymmetric Conflict (Nueva York: Cambridge University Press, 2005); Gil Merom, How Democracies Lose Small
+Wars: State, Society, and Failures of France in Algeria, Israel in Lebanon, and the United States in Vietnam (Nueva York:
+Cambridge University Press, 2003); y Donald Stoker, “Insurgencies Rarely Win—And Iraq Won’t Be Any Different (Maybe)”,
+Foreign Policy,No. 158 (enero/febrero del 2007).
+2
+  Véase Pape, Dying to Win; y Arreguín-Toft, How the Weak Win Wars.
+3
+  Robert L. Helvey define los métodos no violentos como “los medios específicos de acción dentro de la técnica de la acción no
+violenta”, que incluyen la persuasión, la no cooperación y la intervención. Véase Helvey, On Strategic Nonviolent conflict:
+Thinking about the Fundamentals (Boston: Albert Einstein Institutions, 2004) pág. 147.
+
+International Security, Vol. 33, No. 1 (verano del 2008) pág. 7 a 44
+© 2008 por el Presidente y Miembros de Harvard College y el Massachusetts Institute of Technology
+Las protestas y los movimientos organizados de no cooperación para desafiar al poder arraigado y lograr
+concesiones políticas. El éxito de dichas campañas –sobre todo ante las insurgencias violentas
+prolongadas en algunos de estos mismos países- requiere de una investigación sistemática.
+
+         La bibliografía existente plantea distintas razones por las cuales resultan eficaces las campañas no
+violentas como una manera de resistencia.4 Sin embargo, raras veces en esa bibliografía se realiza un
+análisis integral de todas las observaciones conocidas sobre las insurgencias violentas y no violentas como
+formas de resistencia análogas.5 En este estudio, buscamos llenar ese vacío al explorar sistemáticamente la
+eficacia estratégica de las campañas violentas y no violentas en conflictos entre actores gubernamentales y
+no gubernamentales, haciendo uso de datos consolidados de las principales campañas de resistencia
+violentas y no violentas en el período entre 1900-2006.6 Para un mejor entendimiento de los mecanismos
+causales de estos resultados también contrastamos nuestros resultados estadísticos con casos históricos
+marcados por períodos de resistencia violenta y no violenta.
+
+         Nuestros resultados muestran que 53% de las grandes campañas no violentas han tenido éxito,
+frente a 26% de las campañas de resistencia violenta.7 Dicho éxito tiene dos razones. En primer lugar, el
+compromiso de una campaña con métodos no violentos refuerza su legitimidad nacional e internacional y
+promueve una participación más amplia en la resistencia, lo que se traduce en una mayor presión sobre el
+objetivo. El reconocimiento de los motivos de lucha del grupo puede generar más apoyo interno y externo
+para ese grupo y el alienamiento del régimen objetivo, socavando las fuentes de poder político, económico
+e incluso militar del régimen.
+
+        En segundo lugar, a pesar de que los gobiernos pueden justificar fácilmente las respuestas
+violentas contra insurgentes armados, es más probable que la violencia estatal contra los movimientos no
+violentos genere reacciones negativas contra el régimen. La percepción del público potencialmente
+simpatizante es que los militantes violentos tienen objetivos maximalistas o extremistas que sobrepasan la
+
+
+
+
+4
+  Gene Sharp, The Politics of Nonviolent Action, 3 vols. (Boston: Porter Sargent, 1973); Peter Ackerman y Christopher Kruegler,
+Strategic Nonviolent Conflict: The Dynamics of People Power in the Twentieth Century (Westport, Conn.: Praeger, 1994); Adrian
+Karatnycky y Peter Ackerman, How Freedom Is Won: From Civic Resistance to Durable Democracy (Washington, D.C.:
+Freedom House, 2005); Kurt Schock, Unarmed Insurrections: People Power Movements in Nondemocracies (Minneapolis:
+University of Minnesota Press, 2005); Paul Wehr, Heidi Burgess, y Guy Burgess, eds., Justice without Violence (Boulder, Colo.:
+Lynne Rienner, 1994); Stephen Zunes, “Unarmed Insurrections against Authoritarian Governments in the Third World: A New
+Kind of Revolution”, Third World Quarterly, Vol. 15, No. 3 (septiembre de 1994), pág. 403 a 426; Stephen Zunes, Lester Kurtz, y
+Sarah Beth Asher, eds., Nonviolent Social Movements: A Geographical Perspective (Malden, Mass.:Blackwell, 1999); y Vincent
+Boudreau, Resisting Dictatorship: Repression and Protest in SoutheastAsia (Nueva York: Cambridge University Press, 2004).
+5
+  Una excepción notable es Karatnycky y Ackerman, How Freedom Is Won.
+6
+  Utilizamos el término “resistencia” para indicar grandes rebeliones no estatales, ya sean armadas o no. En lugar de utilizar datos
+del número de incidentes, hemos utilizado las campañas -una serie de eventos repetitivos, duraderos, organizados y observables
+dirigidos a un objetivo particular– como la unidad de análisis principal. Medimos “la eficacia” al comparar los objetivos
+anunciados por el grupo con los resultados políticos (por ejemplo, la disposición de los estados a otorgar concesiones a los
+movimientos opositores). Esta distinción analítica no es perfecta, pero otros investigadores la han empleado con éxito. Véase
+Abrahm, “Why Terrorism Does Not Work”.
+7
+  Los resultados que han obtenido los grupos terroristas son peores aún. Véase ibídem, pág. 42 y Stoker, “Insurgencies Rarely
+Win”. Nuestro estudio no compara explícitamente el terrorismo con la resistencia no violenta, pero nuestro argumento destaca las
+razones por las que ha tenido tan poco éxito el terrorismo.
+                                                                                                                                  2
+mera posibilidad de llegar a un acuerdo, pero que los grupos de resistencia no violenta son menos
+extremos, lo que los hace más atractivos y facilita el logro de concesiones mediante negociaciones.8
+
+        Nuestros resultados contradicen la opinión ortodoxa de que la resistencia violenta contra
+adversarios que son superiores en términos convencionales es la manera más eficaz para los grupos en
+resistencia de alcanzar sus objetivos políticos. Por el contrario, sostenemos que la resistencia no violenta
+es una poderosa alternativa a la violencia política ya que representa retos eficaces para los oponentes
+democráticos y no democráticos y, a veces, lo hace incluso de una manera más eficaz que la resistencia
+violenta.
+
+         Este artículo está organizado de la siguiente manera. En el primer apartado se presenta nuestro
+argumento principal; en el segundo, se muestra el conjunto de datos y se describen nuestros resultados
+preliminares; en el tercero, se evalúan tres estudios de caso sobre campañas no violentas y violentas en el
+sureste asiático. Finalmente concluimos con una serie de recomendaciones teóricas y políticas derivadas
+de los resultados obtenidos.
+
+¿Qué es lo que funciona? La lógica estratégica de la resistencia no violenta
+         La resistencia no violenta es un método basado en la acción civil empleado para crear un conflicto
+utilizando medios sociales, psicológicos, económicos y políticos sin recurrir a las amenazas o a la
+violencia. Incluye acciones, omisiones o una combinación de ambas.9 Los estudiosos del tema han
+encontrado centenares de métodos no violentos —incluidas las protestas simbólicas, los boicots
+económicos, las huelgas laborales, la no cooperación política y social, y la intervención no violenta– todos
+estos utilizados por diversos grupos para movilizar al público a fin de que se oponga o apoye a diferentes
+políticas, se reste legitimidad a los adversarios y se quite o limite las fuentes de poder de los adversarios.10
+La lucha no violenta existe al margen de las vías políticas tradicionales, lo que la distingue de otros
+procesos políticos como los que son utilizados por los grupos de presión, las campañas electorales y/o los
+procesos legislativos.
+
+        La resistencia estratégica no violenta es distinta al principio de la no violencia fundamentado en
+creencias religiosas y éticas contra la violencia. Aunque muchas personas comprometidas con la no
+violencia como principio han adoptado la resistencia no violenta (por ejemplo, Mohandas Gandhi y Martin
+Luther King, Jr.), la gran mayoría de los participantes en luchas no violentas no han adoptado la no
+violencia como principio desde el inicio.11 La fusión de la lucha no violenta con el principio de la no
+violencia, el pacifismo, la pasividad, la debilidad o las protestas callejeras aisladas ha generado
+
+8
+  Véase Abrahms, “Why Terrorism Does Not Work”. Esto es especialmente válido en el caso del terrorismo, pero sostenemos que
+también puede aplicarse a otras formas de violencia política. A veces los movimientos violentos se limitan a la selección de
+blancos específicos, pero ese tipo de limitaciones requiere un alto nivel de control de la campaña. Para un análisis de estas
+cuestiones, véase Jeremy Weinstein, Inside Rebellion: The Politics of Insurgent Violence (Nueva York: Cambridge University
+Press, 2007).
+9
+   Gene Sharp, ed., Waging Nonviolent Struggle: 20th Century Practice and 21st Century Potential (Boston: Porter Sargent,
+2005), pág. 41, 547.
+10
+   Véase Sharp, The Politics of Nonviolent Action, Vol. 2, donde Sharp enumera 198 métodos de acción no violenta y ofrece
+ejemplos históricos de cada uno.
+11
+    George Lakey, ed., Powerful Peacemaking: A Strategy for a Living Revolution (Philadelphia, Pa.: New Society, 1987), pág.
+87. Véase también Doug Bond, “Nonviolent Direct Action and Power” en Wehr, Burgess y Burgess, Justice without Violence.
+                                                                                                                            3
+concepciones erróneas de este fenómeno.12 Aunque los defensores de la resistencia no violenta rechazan el
+uso de las amenazas y la violencia, la denominación de “pacíficos” que muchas veces se les da a los
+movimientos no violentos contradice la naturaleza muchas veces muy perturbadora de la resistencia
+organizada no violenta. La resistencia no violenta logra cumplir sus demandas contra la voluntad del
+oponente al controlar el conflicto mediante el cese de cooperación y el desafío amplios.13 La coerción
+violenta amenaza al oponente con violencia física.14
+
+         La academia muchas veces supone que los métodos violentos de resistencia son los más
+coercitivos o los más aptos para forzar un acuerdo y generar así los cambios políticos deseados.15 Por
+ejemplo, algunos han postulado que el terrorismo es una estrategia eficaz, sobre todo para obligar a los
+regímenes democráticos a otorgar concesiones territoriales.16 Por el contrario, Max Abrahms ha mostrado
+que las tasas de éxito de los terroristas son extremadamente bajas y que logran los objetivos políticos
+deseados solo 7% de las veces.17 A pesar de ello, Abrahms llega a la conclusión de que los actores optan
+por el terrorismo porque resulta, de todas formas, más eficaz que la resistencia no violenta.18
+
+        Nosotros sostenemos que la resistencia no violenta puede ofrecer una ventaja estratégica con
+respecto a la resistencia violenta por dos razones. En primer lugar, porque reprimir las campañas no
+violentas puede generar reacciones negativas. En esta situación, un acto injusto —muchas veces la
+represión violenta— se vuelve contra sus perpetradores, suscitando el deterioro de la obediencia entre los
+que apoyan al régimen, la movilización de la población en contra del régimen y la condena internacional.19
+Los costos internos y externos de la represión de las campañas no violentas, por lo tanto, son más altos
+que los de la represión de las campañas violentas. Las reacciones negativas generan cambios en el poder al
+reforzar la solidaridad interna de la campaña de resistencia, lo que ocasiona disidencia y conflictos entre
+los defensores del oponente y socava el apoyo externo. Es más sencillo que esta dinámica se materialice
+cuando la violencia del oponente no se encuentra con represalias violentas por parte de la campaña de
+resistencia y cuando se comunica esto al público interno y externo.20 Las repercusiones internas y externas
+
+12
+   Sharp, The Politics of Nonviolent Action, 3 vols.; Ackerman y Kruegler, Strategic Nonviolent Conflict; y Schock, Unarmed
+Insurrections.
+13
+   Sharp, The Politics of Nonviolent Action, 3 vols. Mantener una campaña deliberada y disciplinada implica problemas mayores
+en términos de la acción colectiva, los cuales son tema de otros estudios. Véase Weinstein, Inside Rebellion;y Elisabeth Jean
+Wood, Insurgent Collective Action and Civil War in El Salvador (Nueva York: Cambridge University Press, 2003).
+14
+   Byman y Waxman, The Dynamics of Coercion, pág. 30, 50.
+15
+    Pape, Bombing to Win; Pape, “Why Economic Sanctions Do Not Work”; y Horowitz y Reiter, “When Does Aerial Bombing
+Work?”
+16
+   Pape, Dying to Win; Ehud Sprinzak; “Rational Fanatics,” Foreign Policy, No. 120 (septiembre/octubre 2000), pág. 66 a 73;
+David A. Lake, “Rational Extremism: Understanding Terrorism in the Twenty First Century”, Dialogue-IO, Vol. 1, No. 1
+(primavera boreal del 2002), pág. 15 a 29; Andrew H. Kydd y Barbara F. Walter, “The Strategies of Terrorism,” International
+Security, Vol. 31, No. 1 (otoño boreal del 2006), pág. 49 a 80; y Alan M. Dershowitz, Why Terrorism Works: Understanding the
+Threat, Responding to the Challenge (New Haven, Conn.: Yale University Press, 2002).
+17
+   Abrahms, “Why Terrorism Does Not Work”, pág. 42.
+18
+   Ibídem, pág. 41 y 42.
+19
+   “Jiu-jitsu moral”, “jiu-jitsu político” y reacciones negativas (backfire) son conceptos afines pero distintos. Véase Richard B.
+Gregg, The Power of Nonviolence, 2a ed. (Nueva York: Schocken, 1935), pág. 43 a 65; Sharp, The Politics of Nonviolent Action,
+pág. 657; y Brian Martin, Justice Ignited: The Dynamics of Backfire (Lanham, Md.: Rowman and Littlefield, 2007), pág. 3.
+20
+   Anders Boserup y Andrew Mack, War without Weapons: Nonviolence in National Defence (Londres: Frances Pinter, 1974),
+pág. 84. Otros académicos han notado que la combinación de una confrontación sostenida con el oponente, el mantenimiento de la
+disciplina no violenta y la existencia de un público simpatizante son condiciones necesarias para desencadenar el jiu-jitsu. Véase
+                                                                                                                                4
+de la represión violenta de civiles que han hecho público su compromiso con la acción no violenta en los
+medios de difusión son más graves que la represión contra los que se podrían razonablemente denominar
+“terroristas” o “insurgentes violentos”.21
+
+         Internamente, es más fácil que los integrantes de un régimen –incluidos los funcionarios públicos,
+las fuerzas de seguridad y los funcionarios del poder judicial– transfieran su lealtad a favor de los grupos
+de oposición no violentos que a favor de grupos de oposición violentos. El poder coercitivo de cualquier
+campaña de resistencia aumenta por su tendencia a promover la desobediencia y la deserción de los
+miembros de las fuerzas de seguridad del oponente, que son más propensos a considerar las consecuencias
+políticas y personales negativas del uso de la violencia represiva contra manifestantes desarmados que
+contra insurgentes armados.22 Es más probable que surjan divisiones entre los defensores del régimen,
+que no están tan preparados para confrontar la resistencia civil masiva como para confrontar a insurgentes
+armados.23 La represión por parte de un régimen también puede generar reacciones negativas debido a la
+mayor movilización del público que suscita. Involucrar activamente en la campaña a un número
+relativamente grande de personas puede ejercer más presión sostenida sobre el objetivo, mientras que el
+público, por su parte, puede rechazar las insurgencias violentas por reparos físicos o morales.
+
+         En el exterior, es más probable que la comunidad internacional denuncie y sancione a los estados
+por su represión de las campañas no violentas que de las campañas violentas. Cuando las organizaciones
+no gubernamentales muestran su apoyo a la causa, las campañas no violentas se tornan más atractivas para
+recibir ayuda. La ayuda externa puede o no hacer avanzar la causa de una campaña.24 Los costos externos
+de la represión de las campañas no violentas pueden ser altos, sin embargo, sobre todo cuando los medios
+de difusión registran la represión. Los actores externos pueden imponer sanciones contra regímenes
+represivos que reiteradamente hacen uso de la fuerza en contra de manifestantes desarmados.25 Aunque
+también es posible que se impongan sanciones en el caso de las insurgencias violentas, es menos probable.
+Por otra parte, algunos estados extranjeros pueden de hecho ayudar a un régimen en sus esfuerzos por
+aplastar a los insurgentes violentos. Otros estados extranjeros pueden prestar apoyo material a una
+campaña de resistencia violenta con el fin de obtener ventajas sobre su oponente. De hecho, el patrocinio
+estatal de las insurgencias violentas y los grupos terroristas ha sido un dilema persistente de la política
+
+
+
+Brian Martin y Wendy Varney, “Nonviolence and Communication”, Journal of Peace Research, Vol. 40, No. 2 (marzo del 2003),
+pág. 213 a 232; y Martin, Justice Ignited. Martin describe los límites de las reacciones negativas al destacar la importancia de los
+medios de comunicación en la difusión de imágenes de las fuerzas de seguridad atacando a protestantes desarmados. Además,
+ciertos regímenes han creado estrategias propias para inhibir la indignación popular, limitando así el impacto de las reacciones
+negativas o evitando que aparezcan por completo.	  	  
+21
+   Anika Locke Binnendijk y Ivan Marovic, “Power and Persuasion: Nonviolent Strategies to Influence State Security Forces in
+Serbia (2000) and Ukraine (2004)”, Communist and Post-Communist Studies, Vol. 39, No. 3 (septiembre del 2006), pág. 416
+22
+  Las deserciones son el retiro de apoyo al régimen vigente. Las fuerzas de seguridad y los funcionarios públicos
+desertan, por ejemplo, cuando dejan de obedecer órdenes y abandonan sus cargos públicos.
+23
+   Véase Zunes, “Unarmed Insurrections against Authoritarian Governments in the Third World”; Ralph Summy, “Nonviolence
+and the Case of the Extremely Ruthless Opponent”, Pacifica Review, Vol. 6, No. 1 (mayo de 1994), pág. 1 a 29; y Lakey,
+Powerful Peacemaking.
+24
+   La ayuda externa puede dañar la campaña, pero lo mismo se podría decir en el caso de campañas violentas o no violentas.
+Véase Clifford Bob, The Marketing of Rebellion: Insurgents, Media, and International Activism (Nueva York: Cambridge
+University Press, 2005)
+25
+   Utilizamos la lista de sanciones señaladas en Hufbauer, Scott y Elliott, Economic Sanctions Reconsidered.
+                                                                                                                                   5
+exterior desde hace décadas.26 No resulta claro si los grupos violentos patrocinados por el estado han
+logrado alcanzar sus metas estratégicas.
+
+        En segundo lugar, las campañas de resistencia no violenta parecen estar más abiertas a la
+negociación y a la negociación, porque estas tácticas no amenazan la vida o el bienestar de los integrantes
+del régimen objetivo. Los defensores del régimen están más dispuestos a negociar con aquellos grupos de
+resistencia que no han matado ni lesionado a sus compañeros.
+
+        La teoría de la inferencia correspondiente indica por qué las campañas no violentas parecen ser
+más atractivas para el público y más persuasivas para los defensores de un régimen. La teoría postula que
+una persona decide cómo responder a un adversario sobre la base de sus acciones, lo cual es doblemente
+ventajoso para la resistencia no violenta.27 Primero, porque el apoyo del público es crucial para cualquier
+resistencia, pero el público no percibe a las campañas no violentas como físicamente amenazantes y a las
+violentas como amenazantes.28 Las campañas no violentas parecen estar más inclinadas a negociar que las
+violentas, a pesar del grado de perturbación que causan. Ante la represión por parte de un régimen, el
+público es menos propenso a respaldar una campaña violenta que es tan represiva como el régimen o que,
+en el mejor de los casos, no tiene en cuenta a las víctimas civiles. Ante una alternativa factible, es más
+probable que el público respalde a una campaña no violenta.29 Segundo, porque cuando los insurgentes
+violentos amenazan la vida de los integrantes del régimen y de las fuerzas de seguridad, disminuye en
+gran medida la posibilidad de que haya cambios de lealtad. Abrahms argumenta que los grupos terroristas
+que atentan contra civiles pierden el apoyo del público, al contrario de los grupos que limitan sus
+atentados a los militares o policías.30 Rendirse o desertar para integrarse a un movimiento violento es más
+riesgoso, porque el grupo podría matar o torturar a los integrantes del régimen y el régimen podría castigar
+violentamente a los desertores. Como los métodos explícitamente no violentos no representan una
+amenaza física para los integrantes de las fuerzas de seguridad o los funcionarios públicos de un régimen,
+es más probable que los integrantes del régimen transfieran su lealtad a favor de los movimientos no
+violentos que de los movimientos violentos. Cuando el régimen ya no puede contar con la cooperación de
+las fuerzas de seguridad o de otros grupos cruciales para mantener el control, disminuye su dominio del
+poder.
+
+        Por supuesto, la represión de las insurgencias violentas por parte de un régimen puede también
+generar reacciones negativas. La crueldad utilizada por las fuerzas militares en Irlanda del Norte dio al
+Ejército Republicano Irlandés una ventaja estratégica a largo plazo al aumentar el número de sus
+defensores. Sin embargo, sostenemos que las reacciones negativas en respuesta a las campañas violentas
+son más raras y que, a pesar de algunos contratiempos, es más probable que las campañas no violentas
+
+26
+   Daniel Byman, Deadly Connections: States that Sponsor Terrorism (Nueva York: Cambridge University Press, 2005). Véase
+también Jeffrey Record, “External Assistance: Enabler of Insurgent Success”, Parameters, Vol. 36, No. 3 (otoño boreal del 2006),
+pág. 36 a 49.
+27
+   Abrahms, “Why Terrorism Does Not Work”.
+28
+   James DeNardo, Power in Numbers: The Political Strategy of Protest and Rebellion (Princeton, N.J.: Princeton University
+Press, 1985).
+29
+   Este argumento puede depender de la “distancia social” entre los movimientos de resistencia y sus oponentes, porque las
+diferencias sociales, culturales, religiosas y lingüísticas entre ellos pueden disminuir el poder de negociación del grupo de
+resistencia. Véase Johan Galtung, Nonviolence in Israel/Palestine (Honolulu: University of Hawaii Press, 1989), pág. 19.
+30
+   Abrahms, “Why Terrorism Does Not Work”.
+                                                                                                                                6
+aporten ventajas adicionales a largo plazo como resultado de la represión por parte de un régimen más que
+las campañas violentas.
+
+        El costo total combinado de la represión continua tanto interna como externa puede obligar a que
+un régimen negocie más a menudo con las campañas no violentas que con las violentas. En el próximo
+apartado se ponen a prueba estas afirmaciones.
+
+Pongamos a prueba la teoría
+        Ronald Francisco y sus colegas han encontrado que la ofensiva del régimen genera reacciones
+negativas y fortalecen la movilización, mientras otros autores han encontrado variaciones en los efectos de
+la represión sobre la movilización.31 La tolerancia de la ofensiva gubernamental podría depender de la
+naturaleza de la campaña de resistencia, o sea, si es violenta o no.32 Esta dinámica se muestra en la
+primera hipótesis.
+
+Primera hipótesis: La predisposición del régimen a utilizar la violencia aumentará la probabilidad de éxito
+de las campañas no violentas, pero será desventajosa para las campañas violentas.
+
+        Cuestionar o desobedecer órdenes es un comportamiento anormal para los miembros de las
+fuerzas de seguridad. Los indicios de deserciones en las filas de los cuerpos militares parecen sugerir que
+el régimen ya no es capaz de exigir la cooperación y obediencia de su pilar de apoyo fundamental. Es más
+probable que los retos no violentos generen cambios de lealtad entre las fuerzas de seguridad del
+oponente, mientras que la resistencia armada es más probable que genere la solidaridad entre ellas ante la
+insurgencia. La segunda hipótesis muestra este supuesto.
+
+Segunda hipótesis: La resistencia no violenta goza de una ventaja relativa en cuanto a la resistencia
+violenta puesto que puede generar cambios de lealtad entre las fuerzas de seguridad.
+
+        Además de generar simpatía y un aumento potencial de la legitimidad, una campaña no violenta
+que se reprime violentamente puede suscitar apoyo de actores externos. Aunque catalogar todas las formas
+de asistencia externa excede el alcance de este estudio, la opinión ortodoxa sugiere que las sanciones
+internacionales contra un régimen represivo ayudan a las campañas no violentas. La tercera hipótesis
+sostiene que las campañas no violentas pueden gozar de apoyo externo.
+
+Tercera hipótesis: Las sanciones internacionales y el apoyo abierto estatal de la campaña resultarán más
+ventajosos para las campañas no violentas que para las violentas.
+
+31
+   La obra fundamental es la de Karen Rasler, “Concessions, Repression, and Political Protest in the Iranian Revolution,”
+American Sociological Review, Vol. 61, No. 1 (febrero de 1996), pág. 132 a 152. Véase también Ronald A. Francisco, “After the
+Massacre: Mobilization in the Wake of Harsh Repression”, Mobilization:An International Journal, Vol. 9, No. 2 (junio del 2004),
+pág. 107 a 126; Ruud Koopmans, “The Dynamics of Protest Waves: West Germany, 1965 to 1989”, American Sociological
+Review, Vol. 58, No. 5 (octubre de 1993), pág. 637 a 658; y Clifford Bob y Sharon Erickson Nepstad, “Kill a Leader, Murder a
+Movement? Leadership and Assassination in Social Movements”, American Behavioral Scientist, Vol. 50, No. 10 (junio del
+2007), pág. 1370 a 1394.
+32
+   Los estudios futuros deberían investigar si la capacidad de un régimen de discriminar entre insurgentes y civiles durante la
+represión le permiten evitar las reacciones negativas. Para una investigación afín, véase Ronald A. Francisco, “The Dictator’s
+Dilemma,” in Christian Davenport, Hank Johnston y Carol Mueller, eds., Repression and Mobilization (Minneapolis: University
+of Minnesota Press, 2005).
+                                                                                                                              7
+        Finalmente, es probable que haya apoyo externo al régimen objetivo para combatir campañas
+violentas, puesto que son percibidas como desafiadores ilegítimos del orden establecido. Los regímenes
+objetivo también pueden recibir ayuda de sus aliados para combatir las campañas de resistencia no
+violentas.33 Creemos que esta dinámica disminuye la probabilidad de éxito de las campañas debido a los
+recursos desproporcionados obtenidos por el estado.34 La cuarta hipótesis tiene en cuenta este factor.
+
+Cuarta hipótesis: El apoyo estatal externo del régimen objetivo pondrá en desventaja tanto a las campañas
+violentas como a las no violentas.
+
+DISEÑO Y MÉTODO DE INVESTIGACIÓN
+        Las metas de nuestra investigación son tres: primero, averiguar si las campañas de resistencia
+violentas o no violentas han tenido más éxito en alcanzar los objetivos planteados; segundo, explorar qué
+variables son importantes para contribuir a los resultados de las campañas; y tercero, discernir si los
+factores estructurales inciden en el fracaso o el éxito de las campañas no violentas. Con este propósito,
+recopilamos el conjunto de datos sobre los resultados de los conflictos violentos y no violentos, llamado
+NAVCO por sus siglas en inglés, el cual incorpora datos combinados de 323 campañas de resistencia
+violenta y no violenta desde el año 1900 hasta el 2006.35
+
+         Definimos una campaña de resistencia como una serie de tácticas continuas y observables en
+busca de un objetivo político. Una campaña puede durar desde días hasta años. Las campañas tienen
+líderes reconocidos y a menudo tienen nombres, lo que las distingue de los motines o actos espontáneos.36
+Las campañas suelen tener un comienzo y un fin definidos, además de eventos claros a lo largo de su
+historia. Nuestra selección de campañas y sus fechas de inicio y final está basada en una muestra
+consensuada producida por fuentes múltiples.37
+
+
+
+
+33
+   Por ejemplo, Rusia abiertamente apoyó a los gobiernos de turno de Ucrania y Georgia durante sus “revoluciones de colores”.
+34
+   En otros estudios se ha encontrado una fuerte correlación entre la resistencia civil no violenta y la democratización duradera.
+Karatnycky y Ackerman, How Freedom Is Won.
+35
+   El conjunto de datos NAVCO contiene una muestra de campañas de resistencia basada en datos consensuados de especialistas
+en el conflicto violento y no violento. Las campañas de resistencia incluyen campañas a fin de cambiar regímenes nacionales, en
+contra de ocupaciones extranjeras o a favor de la secesión o autodeterminación. Se han omitido del conjunto de datos grandes
+campañas sociales y económicas, como el movimiento de derechos civiles o el movimiento populista de los Estados Unidos. Para
+ser incluida en el conjunto de datos NAVCO, la campaña debe tener un objetivo político central disruptivo, tal como poner fin al
+régimen político vigente, a una ocupación extranjera o lograr la secesión. Unos diez campañas (cuatro de ellas no violentas y seis
+violentas) no cumplieron los criterios de ninguna de estas categorías, pero fueron incluidas de todas formas en el conjunto de
+datos. El sistema de codificación supone que cada campaña tiene una meta unificada, pero la mayoría de las campañas tienen
+varios grupos internos. Se explorará la dinámica creada por estas circunstancias en un estudio posterior.
+36
+   Ackerman y Kruegler, Strategic Nonviolent Conflict, pág. 10 y 11; Pape, Dying to Win; y Horowitz y Reiter, “When Does
+Aerial Bombing Work?”
+37
+   Este método presenta ciertas dificultades. Primero, es difícil evaluar la fuerza del movimiento y sus actividades a lo largo del
+tiempo. Segundo, sin datos específicos sobre los eventos, teóricamente es difícil comparar todas las campañas como si fueran
+iguales cuando se sabe que algunas han sido más disruptivas que otras. Hay buenas razones, sin embargo, para analizar campañas
+en vez de eventos. Primero, los datos sobre eventos son difíciles de recopilar, así que formular generalizaciones sobre el conflicto
+es casi imposible. Al analizar campañas en lugar de eventos particulares, se pueden hacer algunas observaciones generales sobre
+las campañas que se pueden explorar más a fondo mediante estudios de caso exhaustivos. Además, las campañas de resistencia
+son mucho más que meros eventos; requieren planificación, reclutamiento, entrenamiento, inteligencia y otras operaciones,
+además de sus actividades perturbadoras más obvias. Utilizar eventos como la unidad de análisis principal no tiene en cuenta estas
+otras operaciones, mientras que analizar campañas permite considerar el espectro más amplio de las actividades en su conjunto.
+                                                                                                                                  8
+         Es difícil clasificar a una campaña como “violenta” y a otra como “no violenta”. En muchos casos
+las campañas violentas y no violentas existen al mismo tiempo entre diferentes grupos en pugna. Por otra
+parte, algunos grupos utilizan tanto métodos de resistencia violenta como no violenta a lo largo de su vida,
+como es el caso del Congreso Nacional Africano en Sudáfrica. Caracterizar una campaña de violenta o no
+violenta simplifica a una constelación compleja de métodos de resistencia.
+
+        Para abordar estas dificultades, establecimos algunos criterios de inclusión para cada una de estas
+categorías. La lista inicial de campañas no violentas fue recopilada a partir de una revisión amplia de la
+bibliografía sobre el conflicto no violento y los movimientos sociales. Posteriormente verificamos estos
+datos utilizando diversas fuentes, entre ellas enciclopedias, estudios de caso y una bibliografía integral
+sobre la resistencia civil no violenta recopilada por April Carter, Howard Clark y Michael Randle.38
+Finalmente, hicimos circular los casos entre expertos en conflictos no violento, a quienes les pedimos que
+evaluaran si los casos estaban caracterizados correctamente como grandes conflictos no violentos y,
+además, si se había omitido algún conflicto importante. Donde los expertos sugirieron la inclusión de otros
+casos, se utilizó el mismo método de verificación. El conjunto de datos resultante incluye importantes
+campañas de resistencia que fueron en gran parte o en su totalidad no violentas. Las campañas que
+cometieron una gran cantidad de actos de violencia se clasificaron como violentas. Los datos sobre las
+campañas violentas se obtuvieron principalmente de las actualizaciones de la base de datos Correlates of
+War (Correlatos de Guerra o COW) recopilada por Kristian Gleditsch en el 2004 y para información sobre
+los conflictos después del 2002, se utilizó la lista de operaciones mayores de contrainsurgencia de Kalev
+Sepp.39
+
+         La unidad de análisis es el año en que la campaña alcanzó su punto de máxima intensidad. La
+observación de la campaña es el año que captura el punto de máxima intensidad de la campaña. En
+muchos casos, una campaña duró solo un año, así que el punto de máxima intensidad es obvio. Por otra
+parte, algunas campañas duraron muchos años, así que en esos casos se determinó el punto de intensidad
+máxima mediante uno de los siguientes dos criterios: 1) el año en que más miembros participaron en la
+campaña; o 2) en el caso de que no haya información sobre el número de miembros, se considera como el
+punto máximo de intensidad como el año en que la campaña terminó debido a que fue reprimida, se
+disolvió o tuvo éxito.
+
+        Los resultados de estas campañas se clasificaron como “exitosos” “parcialmente exitosos” o un
+“fracaso”. Para clasificarse como “exitosa”, la campaña debe haber cumplido dos criterios: 1) su objetivo
+planteado se debe haber cumplido dentro de un plazo razonable (dos años) después del fin de la campaña;
+
+
+
+38
+   April Carter, Howard Clark y Michael Randle, eds., People Power and Protest since 1945: A Bibliography on Nonviolent
+Action (Londres: Housmans, 2006). Véase también Ronald M. McCarthy y Gene Sharp, Nonviolent Action: A Research Guide
+(Nueva York y Londres: Garland, 1997).
+39
+   Kristian Gleditsch, “A Revised List of Wars Between and Within Independent States, 1816–2002”, International Interactions,
+Vol. 30, No. 3 (julio a septiembre del 2004), pág. 231 a 262; y Kalev Sepp, “Best Practices in Counterinsurgency”, Military
+Review, Vol. 85, No. 3 (mayo a junio del 2005), pág. 8 a 12. El conjunto de datos COW requiere que haya habido 1.000 muertes
+en batalla a lo largo del conflicto entre grupos combatientes armados. También verificamos nuestros datos con los datos de Jason
+Lyall y Isaih Wilson III sobre insurgencias. Véase Lyall yWilson, “Rage against the Machines: Explaining Outcomes in
+Counterinsurgency Wars”, trabajo sin publicar, Princeton University, 2008.
+
+                                                                                                                                   9
+y 2) la campaña debe haber tenido un efecto observable sobre los resultados.40 Un “éxito parcial” ocurre
+cuando una campaña logra concesiones significativas (por ejemplo, la autonomía parcial, compartir el
+poder local o un cambio no electoral de líder en el caso de una dictadura), aunque no se hayan logrado del
+todo los objetivos enunciados (es decir, la independencia territorial o un cambio de régimen mediante un
+proceso electoral libre y justo).41 Se considera que una campaña fue un “fracaso” si no alcanzó sus
+objetivos ni logró concesiones importantes.42
+
+         Para poner a prueba las cuatro hipótesis, recopilamos datos de muchas variables independientes.
+Creamos una variable ficticia para la violencia perpetrada por un régimen: se trata de una variable
+dicotómica que indica si el régimen utilizó la violencia para reprimir la campaña o no.43 Sostenemos que
+es más probable tener reacciones negativas cuando un régimen reprime violentamente a una campaña no
+violenta y que eso se debe a la indignación nacional e internacional que provoca tal represalia.44 Por lo
+tanto, la represión por parte del régimen debería tener un efecto positivo sobre la probabilidad de éxito de
+las campañas no violentas y disminuir las posibilidades de éxito de las violentas.
+
+        Además creamos otra variable dicotómica que identifica las deserciones en las fuerzas de
+seguridad de un régimen. Esta medida no incluye las deserciones individuales corrientes, sino que se
+refiere a los colapsos sistemáticos de gran escala en la ejecución de las órdenes de un régimen.45
+Consideramos que las deserciones entre las fuerzas de seguridad son una medición rigurosa de los
+cambios de lealtad dentro de un régimen, aunque no se capten los cambios de lealtad entre los
+funcionarios públicos o los burócratas. Esta medición rigurosa incluye las deserciones que ocurren hasta el
+final de la campaña y esperamos que tengan un efecto positivo sobre las probabilidades de éxito de la
+campaña.
+
+
+
+
+40
+   Véase Hufbauer, Schott y Elliott, Economic Sanctions Reconsidered; y Pape, “Why Economic Sanctions Do Not Work”. El
+umbral de dos años considera las demoras logísticas u operativas en producir los resultados.
+41
+   Hay verdadera preocupación, sobre todo en cuanto a las campañas no violentas, de que nuestro conjunto de datos esté sesgado
+hacia el éxito, porque son las grandes campañas maduras las que frecuentemente se informan más. No se puede incluir en el
+conjunto de datos las campañas no violentas potenciales que son reprimidas en sus comienzos (y, por lo tanto, fracasan). Este es el
+limitante más grande de este estudio y es difícil de evitar. Para abordar esta preocupación, hicimos circular los datos entre
+expertos reconocidos en el tema de los movimientos no violentos a fin de procurar que los movimientos fracasados hayan sido
+considerados. Además, se hicieron muchas pruebas cruzadas entre los casos violentos y los no violentos, y luego con los casos no
+violentos solamente a fin de garantizar la robustez de todos los resultados. Pueden faltar algunas campañas significativas en el
+conjunto de datos si no supimos de su existencia.
+42
+   Cuando una campaña está en curso, la observación de la campaña se anota para el 2006 y se codifica como fracaso. Un ejemplo
+es la campaña en Papúa Occidental contra la ocupación indonesia desde 1964 hasta el día de hoy, la cual se codifica como fracaso
+en el 2006.
+43
+   Dupuy Institute, Armed Conflict Events Database, Release Version Beta 1.2.1, http://www.onwar.com/aced/index.htm; Zunes,
+“Unarmed Insurrections against Authoritarian Regimes”; Schock, Unarmed Insurrections; Karatnycky y Ackerman, How
+Freedom Is Won; Zunes, Kurtz y Asher, Nonviolent Social Movements; Wehr, Burgess y Burgess, Justice without Violence;
+Central Intelligence Agency, The World Factbook, 2007 (Washington, D.C.: Central Intelligence Agency, 2006); Sepp, “Best
+Practices in Counterinsurgency”; y Carter, Clark y Randle, People Power and Protest since 1945.
+44
+   La disponibilidad de la información por la cobertura de los medios de comunicación puede producir efectos variables. Véase,
+por ejemplo, Martin, Justice Ignited.
+45
+   Datos tomados del instituto Dupuy, Armed Conflict Events Database; Zunes, “Unarmed Insurrections against Authoritarian
+Regimes”; Schock, Unarmed Insurrections; Karatnycky y Ackerman, How Freedom Is Won; Zunes, Kurtz y Asher, Nonviolent
+Social Movements; Wehr, Burgess, y Burgess, Justice without Violence; Central Intelligence Agency, The World Factbook, 2007;
+y Carter, Clarke y Randle, People Power and Protest since 1945.
+                                                                                                                                10
+         Las próximas variables independientes son el grado de apoyo externo a la campaña de resistencia
+y al régimen opositor. Se puede captar el apoyo externo para la campaña de resistencia por medio de dos
+variables distintas: el patrocinio estatal externo de una campaña y las sanciones internacionales.
+Incluimos, por lo tanto, una variable que indica si una campaña recibió ayuda material (militar o
+económica) manifiesta de algún gobierno para luchar contra un régimen y otra variable que indica si un
+régimen es objeto de sanciones internacionales, específicamente relacionadas a su comportamiento con
+respecto a un movimiento de resistencia.46 Además, creamos una variable dicotómica que indica si el
+régimen recibió ayuda militar manifiesta de otro estado para luchar contra la campaña.47
+
+         Finalmente, se incluyeron varias variables de control. Algunos autores han sostenido que los
+regímenes democráticos deberían tener más tolerancia con respeto al disenso, más aversión frente al uso
+de la violencia para reprimir la oposición interna y un público más fácilmente coercible. En consecuencia,
+tanto las luchas violentas como las no violentas deberían ser más eficaces contra blancos democráticos que
+contra los autoritarios.48 Para evaluar dichos efectos, utilizamos el puntaje POLITY IV del objetivo
+registrado un año antes del fin de la campaña.49 Luego, controlamos la duración del conflicto (la duración
+del conflicto en términos de días), puesto que la duración puede incidir en los resultados de la campaña.50
+Se incluyeron también variables ficticias para los períodos de la Guerra Fría y la Posguerra Fría: las
+variables ficticias para la Guerra Fría representaron el período 1949-1991 y la variable ficticia para la
+Posguerra Fría representaron el período 1992-2006.
+
+RESULTADOS EMPÍRICOS
+
+         Para estimar los efectos de cada una de las variables independientes sobre las probabilidades de
+éxito de una campaña, se utilizó la regresión logística multinomial, la cual compara las probabilidades de
+que las distintas variables independientes produzcan cada uno de los resultados respectivos: éxito, éxito
+parcial o fracaso.51 Las hipótesis anteriores especulan acerca de los efectos del tipo principal de resistencia
+
+46
+   La variable sobre la ayuda external excluye el apoyo oculto/soslayado, el cual es imposible de determinar a no ser que
+información sobre este apoyo se filtre al público. Esta medición también excluye el apoyo tácito estatal por medio de
+declaraciones públicas o presión diplomática, el apoyo de las organizaciones no gubernamentales, el apoyo de grupos de la
+diáspora, el apoyo de otros actores no estatales, o la influencia de las redes de defensa de la causa trasnacionales, sobre las cuales
+se ha publicado bibliografía. Véase, por ejemplo, Margaret Keck y Kathryn Sikkink, Activists beyond Borders: Advocacy
+Networks in International Politics (Ithaca, N.Y.: Cornell University Press, 1998).
+47
+   Se codifica este variable como 1 si la ayuda fue dirigida explícitamente a apoyar al régimen en contra de la campaña, como se
+demuestra en declaraciones oficiales o relatos múltiples. Los datos para la represión por parte de un régimen y las variables de
+apoyo externo son del instituto Dupuy, Armed Conflict Events Database; Zunes, “Unarmed Insurrections against Authoritarian
+Regimes”; Schock, Unarmed Insurrections; Karatnycky y Ackerman, How Freedom Is Won; Zunes, Kurtz y Asher, Nonviolent
+Social Movements; Wehr, Burgess y Burgess, Justice without Violence; CIA, The World Factbook, 2007; Carter, Clarke y Randle,
+People Power and Protest since 1945; y Hufbauer, Elliott y Schott, Economic Sanctions Reconsidered.
+48
+   James D. Fearon, “Domestic Political Audiences and the Escalation of International Disputes”, American Political Science
+Review, Vol. 88, No. 3 (septiembre de 1994), pág. 577 a 592; y Pape, Dying to Win.
+49
+   El puntaje Polity IV equivale al puntuaje autocracía-democracía del país en una escala de -10 a 10 (donde -10 sería una
+autocracia y 10 sería una democracia plena).
+50
+   Dupuy Institute, Armed Conflict Events Database; Karatnycky y Ackerman, How Freedom Is Won; Carter, Clark y Randle,
+People Power and Protest since 1945; Gleditsch, “A Revised List of Wars Between and Within States”; y Sepp, “Best Practices
+in Counterinsurgency”.
+51
+   Para reproducir el estudio, se pueden obtener resultados, variables y datos adicionales de Erica Chenoweth. La regresión
+logística multinomial permite que los investigadores calculen las probabilidades relativas de cada resultado dado un conjunto
+específico de variables autónomas e independientes en comparación con los demás resultados posibles. Se prefiere este método de
+cálculo por varias razones. Primero, los investigadores pueden examinar las probabilidades de múltiples resultados sacados de la
+                                                                                                                                   11
+de la campaña, la violencia dirigida a la campaña, las sanciones internacionales y el apoyo estatal al
+régimen objetivo sobre las probabilidades de éxito de la campaña.52
+
+        El cuadro 1 muestra los efectos del tipo de resistencia sobre los resultados de las campañas en
+aquellos casos en los que el régimen objetivo respondió con violencia. Los resultados que figuran en el
+cuadro 1 llevan a varias observaciones interesantes. Primero, ante la represión por parte de un régimen, las
+campañas no violentas tienen seis veces más probabilidad de alcanzar el éxito pleno que las violentas que
+también enfrentaron la represión del régimen. Los regímenes represivos tienen alrededor de doce veces
+más probabilidad de otorgar concesiones limitadas a las campañas no violentas que a las violentas. Estos
+resultados apoyan la primera hipótesis.
+
+       Segundo, las deserciones cuadruplican las posibilidades de éxito de una campaña, lo que justifica
+un examen más profundo de la segunda hipótesis.
+
+        Tercero, aunque las campañas que reciben apoyo estatal externo tienen más de tres veces más
+probabilidad de éxito contra un oponente opresivo, las sanciones internacionales no inciden en los
+resultados de la campaña. La tercera hipótesis, por lo tanto, recibe apoyo parcial. Como el apoyo al
+régimen objetivo es insignificante, la cuarta hipótesis no recibe apoyo alguno. Como se podía esperar, el
+sistema de gobierno del objetivo incide positivamente en las probabilidades de éxito de una campaña. La
+duración de una campaña no incide en las posibilidades de éxito pleno, pero las campañas de más larga
+duración tienen más posibilidades de éxito parcial. Las campañas realizadas después de la Guerra Fría han
+tenido más posibilidades de éxito que las realizadas antes de la Guerra Fría, quizás por los efectos del
+aprendizaje entre los insurgentes.53
+
+        Para poner a prueba con más cuidado la segunda hipótesis, se utilizó una regresión logística para
+estimar los efectos de los métodos de resistencia no violenta sobre la probabilidad de que haya deserciones
+entre las fuerzas de seguridad. El cuadro 2 muestra que los métodos de resistencia no violenta tienen
+efectos insignificantes sobre las deserciones entre las fuerzas de seguridad, lo cual se aparta de nuestras
+expectativas. Es posible que la medida rigurosa del cambio de lealtad de las fuerzas de seguridad no capte
+mecanismos alternativos de transferencia de lealtades, tales como cambios en la lealtad de los civiles o los
+burócratas. Tales cambios en la lealtad pueden aparecer en ausencia de deserciones entre las fuerzas de
+seguridad, como fue el caso en muchas de las revoluciones en Europa en 1989.54 Entre las campañas
+
+
+misma muestra, mientras las regresiones logísticas independientes estiman los resultados utilizando muestras independientes.
+Segundo, este tipo de regresión es preferible a la regresión logística ordenada, porque esta última supone que los resultados están
+jerarquizados cualitativamente. Sin embargo, calcular nuevamente los modelos con la regresión logística ordenada no cambia
+significativamente los resultados. Véase	  Stata, “Logistic Regression”, http://www.stata.com/capabilities/logistic.html.
+52
+   Corresponde indicar algunas salvedades. Primero, muchas de nuestras variables constituyen categorizaciones inexactas de
+fenómenos sociales complejos. La naturaleza dicotómica de nuestras variables impide que podamos lograr una gran sensibilidad.
+Además, utilizar el año de mayor intensidad de una campaña como la unidad de análisis omite el componente temporal de la
+relación causal, limitándonos necesariamente a aseveraciones de causa tentativas. Tales omisiones fueron el resultado de la falta
+de disponibilidad de datos y no del descuido. Hay buenas razones para la utilización de variables dicotómicas, sin embargo,
+porque proporcionan principios organizadores para evaluar los efectos de cada factor individual sobre los resultados. Tales
+medidas llaman la atención a relaciones generales sistemáticas que pueden abordarse utilizando comparaciones cualitativas.
+53
+   Lyall y Wilson, “Rage against the Machines”.
+54
+   Elisabeth Jean Wood ha descubierto la importancia de las élites económicas en la determinación de la trayectoria de las
+campañas. Wood, Forging Democracy from Below: Insurgent Transitions in South Africa and El Salvador (Nueva York:
+Cambridge University Press, 2000).
+                                                                                                                                 12
+violentas exitosas, sin embargo, hubo deserciones alrededor de 32% de las veces y entre las campañas no
+violentas exitosas, hubo alrededor de 52% de deserciones.
+
+         Finalmente, para determinar qué variables son más importantes para la resistencia violenta y no
+violenta, distribuimos sus efectos por tipo de campaña. El cuadro 3 informa sobre los resultados. En
+primer lugar, la primera hipótesis es restringida, dado que la violencia perpetrada por un régimen contra
+las campañas no incide estadísticamente en sus resultados.55 Aunque ni las campañas violentas ni las no
+violentas se benefician de la represión, el cuadro 1 muestra que es más probable que las campañas no
+violentas tengan éxito ante la represión. En segundo lugar, la segunda hipótesis recibe apoyo, ya que las
+deserciones entre las fuerzas de seguridad hacen que las campañas no violentas tengan 46 veces más
+probabilidad de tener éxito que las no violentas donde no hay deserciones. Para las campañas violentas, no
+obstante, el efecto de las deserciones entre las fuerzas de seguridad sobre los resultados de las campañas
+es insignificante. En tercer lugar, la tercera hipótesis recibe poco apoyo. El apoyo estatal manifiesto del
+exterior no incide en el éxito de las campañas no violentas. Para las campañas violentas, sin embargo, tal
+apoyo casi triplica sus posibilidades de éxito.56 Nuestros hallazgos con respecto a las sanciones
+internacionales son semejantes; es decir, que no inciden en las probabilidades de éxito de una campaña no
+violenta.
+
+No obstante, las sanciones casi duplican la probabilidad de que un conflicto alcance sus objetivos. En
+cuarto lugar, la cuarta hipótesis tampoco recibe apoyo. La ayuda directa al régimen objetivo no crea
+desventajas ni para las compañas no violentas ni para las violentas.
+
+
+
+
+55
+   Una pregunta importante es por qué la violencia de un régimen suscita reacciones negativas en algunos casos y en otros no.
+Véase Martin, Justice Ignited donde figuran algunas observaciones preliminares.
+56
+   Este hallazgo es congruente con los argumentos de muchos expertos en el tema de la insurgencia, quienes han argumentado que
+obtener apoyo externo puede ser decisivo para las insurgencias. Véase Record, “External Assistance”.
+                                                                                                                           13
+______________________________________________________________________
+
+Cuadro 1. Efectos del tipo de resistencia sobre los resultados de una campaña en casos de
+represión violenta por parte de un régimen.
+____________________________________________________________________________
+
+                                                                         Éxito             Éxito Parcial
+
+
+
+Uso de la resistencia no violenta                                        6,39***           11,78***
+
+Deserciones entre las fuerzas de seguridad                               4,44***             1,05
+
+Apoyo extranjero estatal al objetivo                                    - 0,80               1,10
+
+Sanciones internacionales contra el Estado                               1,32              - 0,60
+
+Apoya abierto estatal a la campaña                                       3,36**              1,76
+
+Sistema de gobierno del objetivo                                         1,07**              1,01
+
+Duración (registrada)                                                  - 1,00                1,47**
+
+Guerra Fría                                                              2,97**              1,25
+
+Posguerra Fría                                                           6,10***             7,88**
+
+N                                                       234    234
+    2
+Chi                                               56,62        56,62
+           2
+Prob > chi                                        00,00        00,00
+        2
+Seudo R                                            0,17         0,17
+____________________________________________________________________________
+Nota: Se informan los coeficientes de la razón de riesgo relativo para facilitar la interpretación; los coeficientes son
+relativos al fracaso de la campaña. Niveles de significancia: ***p < 0,01; ** p < 0,05; y * p < 0,10. Se aplicaron las
+pruebas de Hausman y Small-Hsiao para la robustez.
+____________________________________________________________________________________
+
+
+
+
+                                                                                                                     14
+____________________________________________________________________________________
+Cuadro 2. Incidencia del tipo de resistencia en la probabilidad de que haya grandes niveles de
+deserción en las fuerzas de seguridad
+____________________________________________________________________________________
+                                                           Grandes niveles de deserción
+                                                           en las fuerzas de seguridad
+____________________________________________________________________________________
+Uso de métodos de resistencia no violenta                           0,4
+                                                                 (0,28)
+
+Sistema de gobierno del objetivo                                         -0,00
+                                                                         (0,02)
+
+Apoyo de gobiernos extranjeros al objetivo                               -0,00
+                                                                          (0,31)
+
+Guerra Fría                                                               0,30
+                                                                         (0,35)
+
+Posguerra Fría                                                           -0,19
+                                                                         (0,48)
+
+Constante                                                                -1,48***
+                                                                          (0,29)
+
+N                                                                      267
+    2
+Chi                                                                      6,86
+           2
+Prob > chi                                                               0,3343
+        2
+Seudo R                                                                  0,03
+
+
+Niveles de significancia: ***p < 0,01; **p < 0,05; *p< 0.10. Error estándar entre paréntesis.
+_____________________________________________________________________________________________
+
+
+
+        Una explicación posible para estas variaciones es que el apoyo externo a una campana no violenta
+–abiertamente, por medio del apoyo material de un Estado o de sanciones internacionales– puede socavar
+los esfuerzos dirigidos a movilizar el apoyo público local a causa del problema que a veces acarrea lo que
+se recibe gratis, puesto que los activistas de la campaña se apoyan demasiado en la ayuda externa en vez
+del apoyo local y así pierden su base de poder. Recibir asistencia directa del exterior puede también
+contribuir a deslegitimar el movimiento no violento local. Otra explicación probable es que las sanciones
+internacionales pueden reducir los recursos disponibles para los activistas de la campaña —los cuales
+pueden incluir a grandes números de la población civil— obligándolos a reorientar sus tácticas en
+
+
+____________________________________________________________________________
+                                                                                                       15
+Cuadro 3. Efectos de la violencia perpetrada por un régimen, las deserciones entre las fuerzas de
+seguridad y el apoyo externo Estatal sobre los resultados de las campañas
+_____________________________________________________________________________________________
+                                                          Campañas no violentas                  Campañas violentas
+
+                                                    Éxito                   Éxito
+                                       Éxito       Parcial      Éxito      Parcial
+___________________________________________________________________________________
+
+Violencia perpetrada por un régimen                       -0,39               -0,90              -0,71               -0,50
+
+Deserciones de las fuerzas de seguridad                   46,51***             2,63               2,10                 1,50
+
+Ayuda externa estatal al blanco                             1,31               1,86              -0,99               -0,86
+
+Ayuda externa estatal a la campaña                        -0,19               -0,10*               2,81*               1,53
+
+Sanciones internacionales contra el Estado                -0,31               -0,43                2,56*             -0,39
+
+Organización política del blanco                           1,23**              1,17                1.07**             -0,97
+
+Duración (registrada)                                     -0,51*              -0,70                1,07               2,03**
+
+Guerra Fría                                              -0,03**             -0,02**                2,91**           1,19
+
+Posguerra Fría                                         -0,16                   0,13                4,09*              8,05**
+
+N                                                         94                  94                 173                 173
+    2
+Chi                                                       45,88               45,88              39,55               39,55
+           2
+Prob > chi                                                 0,0003             0,0003            0,0024                0,0024
+        2
+Seudo R                                                      0,27              0,27               0,12                0,12
+
+
+Nota: Se informan los coeficientes de la razón de riesgo relativo para facilitar la interpretación; los coeficientes son
+relativos al fracaso de la campaña. Niveles de significancia: ***p < 0,01; **p < 0,05; y *p < 0,10. Se aplicaron las
+pruebas de Hausman y Small-Hsiao para el cálculo de la robustez.
+
+
+compensación.57 Es posible que las campañas violentas se vean menos afectadas por las sanciones
+internacionales, puesto que los combatientes armados pueden sacar recursos de los territorios que
+controlan. Además, las campañas armadas no dependen tanto de la participación activa de la población
+general como las campañas no violentas, así que los efectos deslegitimadores del respaldo incidirían más
+en los movimientos no violentos que en los movimientos de resistencia armada.58 Otra inquietud es que la
+insignificancia estadística del apoyo externo en las campañas no violentas refleje los procedimientos
+
+
+57
+   Comparadas con las sanciones generales, las sanciones “enfocadas” o “inteligentes” pueden disminuir este efecto. Véase David
+Cortright y George A. Lopez, eds. Smart Sanctions: Targeting Economic Statecraft (Lanham, Md.: Rowman and Littlefield,
+2002).
+58
+   Agradecemos a Hardy Merriman por haber destacado este punto.
+                                                                                                                              16
+rigurosos de la codificación en vez de la insignificancia del respaldo de las organizaciones no
+gubernamentales, la cobertura de los medios de difusión y la presión diplomática.
+
+        Un análisis de las variables de control también arroja resultados interesantes. Primero, el sistema
+de gobierno del blanco incide de manera variable en los resultados de las campañas. Sustancialmente, un
+incremento de una unidad en el puntaje del sistema de gobierno aumenta 23% las probabilidades de éxito
+para una campaña no violenta y alrededor de 7% para una campaña violenta. Este hallazgo es congruente
+con la bibliografía sobre los costos internos de la guerra, en la que se sostiene que los regímenes
+democráticos son sensibles a las exigencias de sus elementos constituyentes.59
+
+        Segundo, cuanto más dura la campaña, menos probable es que la resistencia alcance pleno éxito.
+Esto es especialmente válido en el caso de las campañas no violentas, aunque los efectos de peso no son
+considerables. Es probable que las campañas violentas alcancen un éxito parcial cuanto más perdure el
+conflicto, pero la duración no incide en sus posibilidades de éxito pleno.
+
+         Tercero, las campañas no violentas que ocurrieron durante la Guerra Fría tuvieron menos
+posibilidades de éxito que las campañas no violentas ocurridas antes o después de la Guerra Fría. A la
+inversa, las campañas violentas fueron cada vez más eficaces contra sus oponentes estatales durante y
+después de la Guerra Fría.60
+
+        En suma, las campañas no violentas tienen más posibilidades de tener éxito ante la represión que
+las campañas violentas. Pareciera que las campañas no violentas se benefician más de las presiones
+internas (es decir, las deserciones), mientras que las campañas violentas se benefician más de las presiones
+externas (es decir, las sanciones y la ayuda de patrocinadores extranjeros). A pesar de que la variable de la
+deserción siempre se correlaciona positivamente con la probabilidad de éxito de una campaña, se requiere
+un análisis mayor para determinar si es más probable que los métodos de la resistencia no violenta
+produzcan cambios de lealtad entre la población civil, distinguiéndolos de las deserciones entre las fuerzas
+de seguridad. En este momento, sin embargo, estos hallazgos son limitados por el diseño de la
+investigación, que no permite que se establezca la causalidad por la falta de consideración de la dimensión
+temporal. Nuestras variables son en su mayoría categóricas, por lo que falta la sensibilidad a los diferentes
+grados de represión, deserción y apoyo de las masas. Exploraremos estas cuestiones con más profundidad
+por medio del análisis cualitativo.
+
+Estudios de caso
+
+Para indagar la relación causal entre el tipo de resistencia y el nivel de eficacia, examinamos tres casos en
+los cuales tanto la resistencia violenta como la no violenta fueron utilizadas por campañas en Asia
+Sudoriental: Filipinas, Birmania y Timor Oriental. Se seleccionaron estos tres casos por varias razones. En
+primer lugar, se eligieron dos casos de campañas en contra de un régimen (Filipinas y Birmania) y un caso
+de una campaña en contra de una ocupación extranjera (Timor Oriental) para maximizar la variación de
+las metas de las campañas. En segundo lugar, estos casos representan campañas no violentas exitosas y
+
+
+59
+   Véase, por ejemplo, How Democracies Lose Small Wars; y Fearon, “Domestic Political Audiences and the Escalation of
+International Disputes”.
+60
+   Véase Lyall y Wilson, “Rage against the Machines”.
+                                                                                                                        17
+fracasadas. En tercer lugar, la selección de los casos estuvo impulsada por un diseño del estudio de casos
+del tipo del caso más similar, en el cual cada caso compara campañas dentro de la misma región durante el
+mismo período.61 Además, ninguna de las campañas examinadas recibió ayuda material externa de un
+patrocinador estatal, lo que nos permitió que se mantuviera constante este factor y analizar otras variables
+por separado.
+
+         Este método comparativo tiene varios propósitos. Primero, ofrece un método riguroso para la
+selección de los casos para poner a prueba la teoría que evita acusaciones de sesgo en la selección, puesto
+que comparan las observaciones tanto previstas (éxito de la campaña) como las que se apartan de lo
+esperado (fracaso de la campaña). Segundo, el método ayuda a mejorar los modelos teóricos, dado que las
+observaciones imprevistas requieren explicaciones adicionales. En el análisis de nicho, se seleccionan
+tanto los casos anticipados de éxito de las campañas no violentas (Filipinas y Timor Oriental) como los
+casos imprevistos de fracaso de este tipo de campañas (Birmania). Un análisis profundo de los casos que
+se apartan de lo esperado (fracasos) puede revelar en qué punto las variables en el conjunto de datos
+requieren más sensibilidad y dónde se necesitan las variables omitidas para explicar mejor la variación de
+los resultados.
+
+TIMOR ORIENTAL, 1988-99
+
+El camino de Timor Oriental hacia la independencia, casi 30 años después de que la nación que ocupa la
+mitad oriental de la isla de Timor en el archipiélago indonesio fuera invadida y anexada por Indonesia en
+1975, fue duro y sangriento. La ex colonia portuguesa, rica en madera y gas natural submarino, no logró
+una descolonización exitosa antes de que el Presidente de Indonesia, Suharto, diera órdenes de un
+bombardeo aéreo masivo, alegando que el grupo nacionalista de izquierda que había declarado la
+independencia de Timor Oriental hacía un mes, el Frente Revolucionario para un Timor Oriental
+Independiente (conocido por su sigla en portugués FRETILIN), era una amenaza comunista para la región.
+Los servicios indonesios de inteligencia aprovecharon las divisiones entre las facciones timorenses y
+ayudaron a fomentar una guerra civil entre ellas. Los dirigentes de la Unión Democrática Timorense y la
+Asociación Democrática Popular Timorense, rivales del FRETILIN que gozaban de poco respaldo
+público, firmaron un acuerdo con el Gobierno de Indonesia en el que se instaba a Timor Oriental a que
+formara parte de Indonesia. La Declaración de Balibo fue utilizada por el régimen de Suharto para dar
+legitimidad a la invasión y anexión territorial, lo cual ocasionó la muerte de casi una tercera parte de la
+población indígena de Timor.
+
+        A pesar de las resoluciones del Consejo de Seguridad de las Naciones Unidas condenando las
+acciones de Indonesia, no hubo esfuerzos para imponer su cumplimiento y los gobiernos occidentales
+aceptaron la anexión de Timor Oriental como un hecho consumado.62 Mientras tanto, Indonesia instaló un
+
+
+61
+   Según la lógica del análisis anidado, un número de n académicos deben poner a prueba y modificar sus afirmaciones de
+causación al seleccionar observaciones tanto previstas como desviadas de su muestra para el análisis tipo estudio de caso. Entre
+las observaciones que encajan en la línea de regresión prevista, el análisis de estudios de caso puede destacar cuáles de las
+variables omitidas podrían ser responsables del error residual.
+62
+   Dos resoluciones del Consejo de Seguridad de las Naciones Unidas, la 384 (1975) y la 389 (1976) afirmaron el derecho de
+Timor oriental a la autodeterminación e instaron a Indonesia a que detenga la invasión de Timor Oriental y retire sus fuerzas
+militares sin demora. Véase Richard Falk, “The East Timor Ordeal: International Law and Its Limits” en Richard Tanter, Mark
+                                                                                                                                   18
+gobierno títere en Dili, dominado por el ejército indonesio y facciones timorenses orientales opositoras al
+FRETILIN. Se ofrecieron incentivos a más de 100.000 musulmanes indonesios para que se establecieran
+en Timor Oriental, cuya población es católica en su inmensa mayoría, y la isla cayó en las garras de una
+salvaje ocupación militar extranjera. La cobertura de la prensa internacional sobre la situación en Timor
+Oriental fue controlada por el estado.63
+
+         La resistencia inicial a la ocupación indonesia adoptó la forma de la guerra convencional y de la
+guerra de guerrillas liderada por el ala armada de FRETILIN, las Fuerzas Armadas para la Liberación
+Nacional de Timor Oriental (conocida por su sigla en portugués FALANTIL). Aprovechando las armas
+dejadas atrás por las tropas de Portugal, las fuerzas de FALANTIL lucharon desde la región montañosa
+selvática de Timor Oriental. No obstante algunos éxitos al comienzo, para 1980 la campaña salvaje de
+contrainsurgencia de Indonesia había diezmado la resistencia armada junto con casi una tercera parte de la
+población timorense, 64 a lo que siguió una gran transformación estratégica de la resistencia timorense
+oriental.
+
+        El líder de la transformación, Kay Xanana Gusmão, era un comandante sobreviviente de la
+FALANTIL. Gusmão cruzó la isla a pie para reunirse con los diferentes grupos y evaluar el potencial de la
+población de ofrecer resistencia.65 Un obispo católico sumamente respetado convenció a Gusmão que
+dejara las inclinaciones marxistas comunistas para obtener el respaldo de la iglesia y los gobiernos
+occidentales. Gusmão renunció a su puesto de jefe del FRETILIN y creó un nuevo frente no partidario
+conocido como el Consejo Nacional de Resistencia Mauberena, que estaba integrado por tres pilares: un
+frente armado, un frente diplomático y un frente clandestino.66 El carácter no partidario de la nueva
+organización de resistencia tenía el propósito de hacerla lo más integradora posible.
+
+       Aunque originalmente se concibió al frente clandestino como una red destinada a apoyar al
+movimiento armado, eventualmente sus funciones se revirtieron y el frente clandestino llegó a ser la
+fuerza motriz de la resistencia a favor de la independencia. El frente clandestino, un producto del
+movimiento estudiantil de FRETILIN formado en los años setenta, planificó y lideró una serie de
+campañas no violentas en Timor Oriental e Indonesia y en otras capitales del mundo a partir de 1988. Con
+ramas dentro de Timor Oriental e Indonesia, donde un gran número de jóvenes timorenses orientales se
+
+Selden y Stephen R. Shalom, eds., Bitter Flowers, Sweet Flowers: East Timor, Indonesia, and the World Community (Lanham,
+Md.: Rowman and Littlefield, 2001), pág. 150.
+63
+   Geoffrey C. Gunn, A Critical View of Western Journalism and Scholarship on East Timor (Manila: Journal of Contemporary
+Asia, 1994), pág. 1.
+64
+   Las fuerzas indonesias mataron a la mayoría de los comandantes de FALANTIL, eliminaron aproximadamente 80% de sus
+bases y lograron controlar a más de 90% de la población de Timor Oriental. Taur Matan Ruak, comandante de FALANTIL,
+entrevistado por Maria J. Stephan, Dili, Timor Oriental, 11 de enero del 2005.
+65
+   Gusmão describió las conversaciones: “En 1979, iba de casa en casa, de pueblo en pueblo, de ciudad en ciudad y le preguntaba
+a mi pueblo si tenían ánimo para seguir luchando y ellos exigieron que nunca me rindiera. Mi pueblo desea, en realidad, exige y
+prefiere, que muera luchando. Tal es el sentido de honor del pueblo de Timor Oriental. Y yo soy un soldado de este país y sirvo a
+ese pueblo mil veces heroico”. Véase Sarah Niner, ed., To Resist Is To Win! The Autobiography of Xanana Gusmão (Richmond,
+Va.: Aurora, 2000), pág. 166.
+66
+   El CNRM cambió de nombre en 1998 y pasó a llamarse el Consejo Nacional de Resistencia Timorense. Esta transformación
+ideológica y organizativa amplió la base de sus defensores al permitir la participación de más timorenses orientales sin importar
+su afiliación ideológica o política. Chisako M. Fukuda, “Peace through Nonviolent Action: The East Timor Resistance
+Movement’s Strategy for Engagement”, Pacifica Review, Vol. 12, No. 1 (febrero del 2000), pág. 19 y 20; y Maria J. Stephan,
+“Fighting for Statehood: The Role of Civilian-Based Resistance in the East Timorese, Palestinian, and Kosovo Albanian Self-
+Determination Movements”, Fletcher Forum of World Affairs, Vol. 30, No. 2 (verano boreal del 2006), pág. 57 a 81.
+                                                                                                                               19
+habían matriculado en universidades indonesias, el frente clandestino creó una red descentralizada de
+activistas que utilizaron campañas educativas y protestas para llamar la atención a la situación en Timor.
+
+        La primera protesta importante ocurrió en noviembre de 1988, cuando el Papa Juan Pablo II fue
+invitado a Dili por el Presidente Suharto, un acto cuyo propósito era legitimar aun más la anexión
+forzada.67 Durante la misa celebrada por el Papa, a la que asistieron miles de personas, un grupo de
+jóvenes timorenses orientales corrieron hasta el altar gritando lemas pro independencia y desplegaron
+banderas clamando por el retiro de las fuerzas indonesias.68 La manifestación, cubierta por los medios de
+difusión, fue embarazosa para Indonesia, mostró la cara de la oposición timorense oriental al mundo
+externo y contribuyó a disminuir el nivel de temor en los timorenses orientales. Se organizaron más
+protestas no violentas en momentos oportunos para coincidir con la visita de funcionarios importantes de
+alto nivel, inclusive una manifestación dramática durante la visita a Dili del embajador de los Estados
+Unidos en 1990 y la entrada clandestina de un periodista australiano para entrevista a Gusmão en la selva
+de Timor Oriental.
+
+        Sin embargo, el momento crucial que marcó un cambio en la dirección del movimiento de
+independencia timorense oriental fue una masacre. El 12 de noviembre de 1991, tropas indonesias
+abrieron fuego contra una multitud de timorenses orientales que marchaban en una pacífica procesión
+funeraria y mataron a más de 200 personas. Un documentalista británico filmó la masacre y los periodistas
+occidentales que estaban presentes ofrecieron testimonio ocular y fotografías. Las noticias de la masacre
+se difundieron por todo el mundo, provocando la indignación internacional y animando a los timorenses
+orientales a repensar su estrategia.69 Según un líder timorense oriental “después de la masacre de Dili,
+llegamos a entender que los timorenses orientales y los indonesios teníamos el mismo enemigo: el ejército
+de Indonesia y la dictadura de Suharto. Era necesario incorporar a los indonesios en nuestra lucha porque
+esta lucha era también la suya”.70
+
+        En 1996, se otorgó el Premio Nobel de la Paz al jefe de la iglesia católica en Timor Oriental, el
+obispo Carlos Belo, y al líder del frente diplomático de la CNRM, José Ramos-Horta, por sus esfuerzos
+para poner fin pacíficamente a la ocupación indonesa.71 Al aceptar el premio, Belo y Ramos-Horta
+instaron a la comunidad internacional a que apoyasen una consulta popular sobre el futuro político de
+Timor Oriental.
+
+        Tras la caída de Suharto en 1998 después de una lucha mayormente no violenta, el nuevo
+dirigente de Indonesia, B.J. Habibie, rápidamente llevó a cabo una serie de reformas políticas y
+económicas destinadas a restaurar la estabilidad y credibilidad internacional de Indonesia. Habibie se
+encontró bajo tremendas presiones internacionales para resolver la cuestión de Timor Oriental, que se
+
+67
+   Constancio Pinto, “The Student Movement and the Independence Struggle in East Timor: An Interview”, en Tanter, Selden y
+Shalom, Bitter Flowers, Sweet Flowers, pág. 36.
+68
+   Ibídem, pág. 111.
+69
+   Brian Martin, Wendy Varney y Adrian Vickers, “Political Ju-Jitsu against Indonesian Repression: Studying Lower-Profile
+Nonviolent Resistance”, Pacifica Review, Vol. 13, No. 2 (junio del 2001), pág. 143 a 156. Véase también Arnold S. Kohen, From
+the Place of the Dead: The Epic Struggles of Bishop Belo of East Timor (Nueva York: St. Martin’s, 1999), pág. 160 a 187.
+70
+   Domingos Sarmento Alves, líder del frente clandestino, entrevistado por Maria J. Stephan, Dili, Timor Oriental, 5 de enero del
+2005; y Stephan, “Fighting for Statehood”.
+71
+   Michael E. Salla, “Creating the ‘Ripe Moment’ en the East Timor Conflict”, Journal of Peace Research, Vol. 34, No. 4
+(noviembre de 1997), pág. 449 a 466.
+                                                                                                                               20
+había convertido en una vergüenza diplomática y una carga para la economía de Indonesia. En junio de
+1998, Habibie ofreció a los timorenses orientales una autonomía especial a cambio del reconocimiento de
+la soberanía de Indonesia sobre Timor Oriental. Después de manifestaciones multitudinarias por parte de
+timorenses orientales y más presión internacional, Habibie anunció que la independencia era una opción si
+la población timorense oriental rechazaba la autonomía. El 5 de mayo de 1999, Indonesia, Portugal y las
+Naciones Unidas firmaron un acuerdo tripartito llamando a una consulta popular para definir la situación
+política definitiva de Timor Oriental, bajo la supervisión de las Naciones Unidas.
+
+        En la consulta popular, cerca de 80% de los timorenses que votaron optaron por la independencia.
+En respuesta, las milicias respaldadas por Indonesia lanzaron una campaña en la que arrasaron con todo a
+su paso, creando destrucción y desplazamientos masivos. Durante esta violencia posterior a la consulta
+popular, Gusmão pidió a los guerrilleros del FALANTIL que permanecieran en su acantonamiento y que
+no respondieran con fuerza militar. Posteriormente, Gusmão defendió esta decisión, diciendo que “no
+queríamos dejar que, al envolvernos en su juego y su orquestación de la violencia, esto llevara a una
+guerra civil… Nunca creímos que la violencia pudiera escalar como lo hizo”.72 El 14 de septiembre del
+2000, el Consejo de Seguridad de las Naciones Unidas votó unánimemente para autorizar el envío de una
+fuerza internacional para Timor Oriental, liderada por Australia.73 Un mes después, se estableció la
+administración transicional de las Naciones Unidas. Después de un período de transición de dos años, en
+mayo del 2002 Timor Oriental se convirtió en el estado independiente más nuevo del mundo.74
+
+         TIMOR ORIENTAL: FACTORES INTERNACIONALES.           Después de la masacre de Dili, el movimiento a
+favor de la independencia adoptó una estrategia doble de “indonenización” e “internacionalización.” El
+fundamento de las dos estrategias fue la resistencia no violenta. La meta de la indonenización fue llevar la
+lucha más cerca de la zona de importancia del oponente mediante intercambios con intelectuales, líderes
+de la oposición política y activistas indonesios a favor de los derechos humanos. Los activistas timorenses
+orientales aprendieron Bahasa, utilizaron el sistema legal de Indonesia, estudiaron en sus escuelas y
+universidades, citaron su constitución e ideología estatal, recibieron apoyo de varias organizaciones no
+gubernamentales indonesias y lanzaron protestas en las calles. Se crearon nuevas organizaciones a fin de
+promover más cooperación entre activistas indonesios, timorenses orientales e internacionales; eran
+frecuentes las protestas conjuntas.75 Los líderes del frente clandestino dentro de Indonesia debatieron el
+valor estratégico de la violencia y a fin de cuentas la rechazaron.76
+
+        La internacionalización consistió en enfocarse en objetivos instituciones multilaterales y
+gobiernos extranjeros cuya asistencia ayudaba a mantener el régimen de Suharto a flote. La táctica no
+violenta más dramática utilizada para llevar adelante esta estrategia fue lo que los timorenses denominaron
+
+
+72
+   Citado en Nora Boustany, “Riding the Tide of History”, Washington Post, 20 de septiembre de 1999.
+73
+   “Clinton Demands Indonesia Accept International Force”, Agence France-Presse, 9 de septiembre de 1999; “U.S. Cuts Military
+Ties with Indonesia”, Reuters, 9 de septiembre de 1999; y Sanders Thoenes, “What Made Jakarta Accept Peacekeepers”,
+Christian Science Monitor, 14 de septiembre de 1999.
+74
+   Ian Martin, “The Popular Consultations and the United Nations Mission”, en James J. Fox y Dionisio Babo Soares, eds., Out of
+the Ashes: The Destruction and Reconstruction of East Timor (Adelaide, Australia: Crawford House, 2000).
+75
+   En 1995, se creó la organización Solidaridad con el Pueblo Maubere para centrarse exclusivamente en Timor Oriental. Véase
+Anders Uhlin, Indonesia and the “Third Wave of Democratization”: The Indonesian Pro-Democracy Movement in a Changing
+World (Nueva York: St. Martin’s, 1997).
+76
+   Joachim Fonseca, líder del frente clandestino, entrevistado por Maria J. Stephan, Dili, Timor Oriental, 12 de enero del 2005.
+                                                                                                                             21
+“saltar cercas”, es decir, saltar las cercas de las embajadas occidentales en Jakarta, montar manifestaciones
+de ocupación no violentas y distribuir materiales informativos sobre las violaciones de los derechos
+humanos en Timor Oriental. En 1994, durante una cumbre importante sobre cooperación económica en el
+Asia Pacífico que tuvo lugar en Jakarta, 29 manifestantes indonesios y timorenses orientales escalaron las
+murallas de la Embajada de los Estado Unidos y se negaron a abandonar el lugar por 12 días.77 Esta acción
+dramática captó la atención de los medios de difusión y resultó embarazosa para el gobierno indonesio.78
+
+         Las acciones no violentas en apoyo directo a la independencia de Timor Oriental llegaron a tener
+un carácter transnacional. En los Estados Unidos, la Red de Acción de Timor Oriental, una red de
+organizaciones a favor de los derechos humanos, grupos religiosos y otras organizaciones de base creadas
+después de la masacre de Dili, presionaron exitosamente al Gobierno de los Estados Unidos para que
+dejara de prestar ayuda y entrenamiento militar a Indonesia hasta que ese país terminara con los abusos de
+los derechos humanos en Timor Oriental y permitiera la autodeterminación.79 En 1992, el Congreso de los
+Estados Unidos aprobó una resolución por medio de la cual se interrumpieron los fondos de entrenamiento
+militar internacional para Indonesia, a pesar de una fuerte presión por parte de los aliados corporativos de
+Indonesia para impedir la resolución. El Departamento de Estado bloqueó la transferencia de aviones F-5
+a Indonesia y en 1994 el Congreso aprobó una ley que prohibía la venta de armas de fuego de pequeño
+calibre a Indonesia. Aunque la administración de Clinton seguía vendiendo armas a Indonesia (y por un
+tiempo restauró los fondos de entrenamiento militar), la presión sostenida de las organizaciones de base
+hizo que el tema de Timor Oriental fuera central en las relaciones entre los Estados Unidos e Indonesia.80
+
+        A pesar de las masacres y las numerosas violaciones de los derechos humanos por parte del
+Estado, la campaña violenta del FALANTIL no pudo suscitar la simpatía de la comunidad internacional.
+Por el contrario, la campaña de resistencia no violenta pudo ganar suficiente simpatía de la comunidad
+internacional para lograr sanciones contra el Gobierno de Indonesia.
+
+         TIMOR ORIENTAL: FACTORES INTERNOS.        La campaña violenta dentro de Timor Oriental produjo
+recelo y hostilidad generalizados dentro de las fuerzas de seguridad indonesias. Algunos documentos
+militares no confidenciales de los tiempos de la ocupación revelan que las fuerzas indonesias de ocupación
+eran sorprendentemente optimistas en cuanto a las posibilidades de victoria en Timor Oriental, mientras
+insistían a sus tropas que la población timorense oriental era cómplice en la guerra de guerrillas.81 En
+consecuencia, las tácticas represivas e indiscriminadas de contrainsurgencia eran brutales, suscitando el
+respaldo tácito para la guerrilla por parte de la población local. Los insurgentes violentos, sin embargo,
+nunca pudieron reclutar más de 1.500 combatientes activos. Sus represalias violentas contra las fuerzas de
+seguridad solo le sirvieron para consolidar la voluntad del ejército indonesio e intensificar el conflicto.
+
+
+77
+   Maggie Helwig, “Students Take Lead in East Timor Resistance”, Peace News, No. 2389 (abril de 1995).
+78
+   Manuela Saragosa, “Summit Light Spills Over on to East Timor”, Financial Times, 11 de noviembre de 1994; Jeremy
+Wagstaff, “Timorese Protestors Say They Won’t Quit Embassy”, Reuters, 12 de noviembre de 1994; y Hugh O’Shaughnessy,
+“Aid Money Goes to Indonesian Regime Despite Massacres”, London Observer, 13 de noviembre de 1994.
+79
+   Brad Simpson, “Solidarity in an Age of Globalization: The Transnational Movement for East Timor and U.S. Foreign Policy”,
+Peace and Change, Vol. 29, Nos. 3 y 4 (julio del 2004), pág. 459.
+80
+   Allan Nairn, “U.S. Support for the Indonesian Military: Congressional Support”, en Tanter, Selden y Shalom, Bitter Flowers,
+Sweet Flowers.
+81
+   Samuel Moore, “The Indonesian Military’s Last Years in East Timor: An Analysis of Its Secret Documents”, Indonesia, Vol.
+72 (octubre del 2001), pág. 9 a 44.
+                                                                                                                             22
+        Por el contrario, la campaña no violenta produjo algunos cambios de lealtad. Estudiantes
+indonesios lideraron movilizaciones multitudinarias que, en último término, produjeron un cambio de
+respaldo entre las élites comerciales y los miembros de las fuerzas de seguridad. Las élites comerciales,
+aún sufriendo los efectos de la crisis económica, perdieron el entusiasmo por mantener la ocupación,
+especialmente debido a las presiones internacionales para capitular.82 Dentro de los militares indonesios,
+comenzaron a surgir divisiones entre los miembros más viejos del cuerpo de oficiales, que se beneficiaban
+de los acuerdos de negocios lucrativos en Timor Oriental, y los oficiales más jóvenes, que llamaban a la
+reforma.83 Estos últimos reconocían que el esfuerzo de Indonesia de ganar los corazones y las mentes de
+los habitantes de Timor Oriental había sido un fracaso total.84 El comandante militar de Timor Oriental
+Taur Matan Ruak explicó que cada vez que los soldados indonesios eran capturados por las guerrillas
+timorenses, estas los trataban muy bien a propósito y a veces los liberaban, dejándolos volver a sus
+familias en Indonesia.85 Los líderes pro independencia, además, rechazaron intencionalmente la ayuda del
+movimiento liberen a Aceh, que clamaba por el derrocamiento del gobierno indonesio.86 Mientras el nivel
+de confianza en el gobierno de Suharto cayó precipitosamente, los líderes militares indonesios clave
+reclamaban la renuncia del presidente.87
+
+         Poco después que Belo y Ramos-Horta recibieran el Premio Nobel de Paz, las antiguas facciones
+rivales timorenses se consolidaron en una nueva organización a favor de la independencia, el Consejo
+Nacional de Resistencia Timorense. Este paso crítico permitió que los timorenses orientales presentaran
+un frente unido al gobierno de Indonesia y la comunidad internacional. La crisis económica de 1997 creó
+las condiciones para movilizaciones masivas dentro de Indonesia, las cuales obligaron al Presidente
+Suharto a renunciar a su cargo en mayo de 1998. Los activistas pro independencia de Timor Oriental
+participaron en las manifestaciones junto con los activistas de la oposición indonesia para reclamar el fin
+de la dictadura militar corrupta de Suharto.88 Mientras las campañas violentas de insurgencia dentro de
+Timor Oriental lograron reclutar solo 1.500 combatientes, la campaña no violenta logró alianzas
+transversales con decenas de miles de participantes. La combinación de la presión internacional y nacional
+que surgió de los esfuerzos de la campaña no violenta contra la ocupación obligó a que el gobierno
+indonesio se retirara de Timor Oriental bajo supervisión.
+
+FILIPINAS, 1986
+
+El movimiento del poder popular que derrocó al dictador filipino Fernando Marcos en 1986 ofrece un
+contraejemplo útil a la rebelión fracasada de la oposición en Birmania unos años después. A pesar de las
+predicciones de los académicos de que el régimen de Marcos sería derrocado violentamente por una
+
+82
+   Brendan O’Leary, Ian S. Lustick y Thomas Callaghy, eds., Rightsizing the State: The Politics of Moving Borders (Nueva York:
+Oxford University Press, 2001).
+83
+   Benedict Anderson, “Imagining East Timor” Arena, No. 4 (abril–mayo de 1993).
+84
+   Después de la masacre de Dili, que llevó a acciones disciplinarias contra soldados rasos y oficiales, algunos sectores de los
+militares indonesios comenzaron a criticar fuertemente la estrategia del gobierno en Timor Oriental. Véase John B. Haseman, “A
+Catalyst for Change in Indonesia: The Dili Incident”, Asian Survey, Vol. 35, No. 8 (agosto de 1995), pág. 757 a 767.
+85
+   Ruak, entrevistado por Stephan.
+86
+   Ibídem.
+87
+   Geoffrey Forrester, “Introduction” in Forrester and R.J. May, eds., The Fall of Suharto (Bathurst, Australia: Crawford House,
+1998). Véase además Edward Aspinall, Herb Feith y Gerry van Klinken, eds., The Last Days of President Suharto (Melbourne,
+Australia: Monash Asia Institute, Monash University, 1999).
+88
+   Forrester, “Introduction”; y Aspinall, Feith y van Klinken, The Last Days of President Suharto.
+                                                                                                                              23
+insurgencia comunista o un golpe militar, eso no fue lo que ocurrió.89 Por el contrario, una coalición
+amplia de políticos, trabajadores, estudiantes, comerciantes, líderes de la Iglesia Católica y otros grupos de
+la oposición logró coartar un régimen cuya legitimidad ya estaba debilitándose por la corrupción
+generalizada, la mala gestión económica y el uso de la represión violenta.
+
+        Después de su reelección a la presidencia en 1969, Marcos impuso la ley marcial en 1972,
+alegando que los insurgentes y los secesionistas musulmanes del sur del país representaban una amenaza.
+Con el respaldo de los Estados Unidos, Marcos consolidó el poder ejecutivo mientras que se enriquecía
+cada vez más mediante la centralización, los monopolios estatales, el clientelismo, la ayuda de los Estados
+Unidos y préstamos de las entidades financieras internacionales. Marcos acusó a la oposición política de
+haberse aliado con los comunistas, confiscó sus activos y encarceló a muchos de sus miembros. Los
+líderes moderados de la oposición fueron silenciados o neutralizados, y los partidos políticos de la
+oposición se encontraban desorganizados.90
+
+         La oposición liderada por el Partido Comunista de Filipinas y su nuevo ejército popular se
+fortaleció sistemáticamente a fines de la década de los setenta. El nuevo ejército popular halló inspiración
+en las ideologías marxistas leninistas maoístas y optó por la revolución armada para ganar el poder. Los
+ataques militares contra el nuevo ejército popular patrocinados por el estado dispersaron la resistencia
+guerrillera, dando por resultado el establecimiento del ejército popular en todas las regiones del país.91
+
+         En parte para apaciguar a la administración del Presidente Jimmy Carter, Marcos accedió a
+introducir reformas moderadas a fines de la década de los setenta, llegando incluso a convocar a
+elecciones parlamentarias en 1978. El principal líder de la oposición filipina, el senador exiliado Benigno
+Aquino Jr., participó en las elecciones, las cuales produjeron solamente avances mínimos para la
+oposición. Aunque la enorme concurrencia de votantes animó a los miembros de la oposición (con
+excepción del Partido Comunista de Filipinas) a participar en las elecciones posteriores, algunos
+miembros también comenzaron a participar en actividades que incluían el incendio premeditado, atentados
+con bombas y ejércitos guerrilleros.92 Debilitados por los arrestos y los fracasos, estos opositores no
+recibieron concesión alguna de Marcos y los Estados Unidos pusieron sus nombres en la lista negra,
+clasificándolos como terroristas.93
+
+        El asesinato de Aquino en 1983 fue motivo de una rebelión multitudinaria. Aquino, que se había
+exiliado en los Estados Unidos en 1980, mantuvo contacto con la oposición dentro de Filipinas mientras
+
+89
+   Richard Snyder, “Explaining Transitions from Neopatrimonial Dictatorships”. Comparative Politics, Vol. 24, No. 4 (julio de
+1992), pág. 379 a 400; Richard Snyder, “Paths out of Sultanistic Regimes: Combining Structural and Voluntaristic Perspectives”
+en H.E. Chehabi y Juan J. Linz, eds., Sultanistic Regimes (Baltimore, Md.: Johns Hopkins University Press, 1998), pág. 49 a 81;
+Mark Thompson, “Searching for a Strategy: The Traditional Opposition to Marcos and the Transition to Democracy in the
+Philippines”, trabajo sin publicar, Yale University, 1991; y Mark R. Thompson, “Off the Endangered List: Philippine
+Democratization in Comparative Perspective”, Comparative Politics, Vol. 28, No. 2 (enero de 1996), pág. 179 a 205.
+90
+   Amado Mendoza, “Civil Resistance, ‘People Power,’ and Democratization in the Philippines”, en Adam Roberts, Timothy
+Garton Ash y Thomas Robert Davies, eds., Civil Resistance and Power Politics: The Experience of Nonviolent Action from
+Gandhi to the Present (Oxford: Oxford University Press, de próxima aparición).
+91
+   Shock, Unarmed Insurrections.
+92
+   Los políticos tradicionales intentaron organizar un pequeño grupo armado en Sabah, Malasia, con la ayuda del Frente de
+Liberación Nacional Moro. Cuando el ejército no logró aumentar lo suficiente, adoptaron tácticas como el incendio premeditado y
+los ataques con bombas para obligar a que Marcos otorgara concesiones políticas. Véase Thompson, “Off the Endangered List”.
+93
+   Mendoza, “Civil Resistance, ‘People Power,’ and Democratization in the Philippines”.	  
+                                                                                                                            24
+abogaba ante el gobierno de los Estados Unidos por el retiro del apoyo a Marcos.94 Para 1983, con Marcos
+gravemente enfermo, el aumento de los disturbios internos tras la crisis financiera de 1979, el crecimiento
+de la insurgencia comunista (junto con las pruebas de violaciones de los derechos humanos como
+resultado de operaciones contra la insurgencia patrocinadas por el régimen), y las maniobras de las élites
+civiles y militares para llegar al poder, Aquino decidió volver a Filipinas. Aunque esperaba negociar con
+Marcos una transferencia de poder, esto no llegaría a suceder. El asesinato de Aquino en el aeropuerto
+internacional de Manila a manos de su escolta militar despertó la indignación nacional e internacional.
+
+         Después del asesinato de Aquino, Marcos trató de nuevo de crear divisiones en la oposición por
+medio de las elecciones parlamentarias de 1984. Mientras algunos políticos moderados se unieron a un
+boicot liderado por los comunistas, otros (respaldados por la viuda Corazón “Cory” Aquino) participaron
+y ganaron un tercio de las bancas en disputa, a pesar de la violencia, el fraude generalizado perpetrado por
+el gobierno y el poco acceso a los medios de difusión.95
+
+         Ante los grandes disturbios internos a fines de 1985, Marcos llamó a elecciones repentinamente en
+febrero de 1986. Seguro de que ganaría (o de que podría tener éxito en manipular las elecciones
+fraudulentamente a su favor) y creyendo que podía intimidar a una oposición aparentemente dividida,
+Marcos siguió adelante con las elecciones. Sin embargo, para 1986 la oposición estaba en una mejor
+posición para desafiar al dictador en los comicios. En 1985, la oposición reformista se unió bajo la
+bandera de la Oposición Democrática Nacionalista Unida, con Cory Aquino como candidata para la
+presidencia. En el período anterior a las elecciones, Aquino abogó por la disciplina no violenta, indicando
+claramente que no se tolerarían ataques violentos contra los oponentes. Los líderes de la Iglesia Católica
+insistieron igualmente en esta disciplina.96
+
+        Aunque los medios de difusión estaban bajo el control de Marco, la Radio Veritas y el periódico
+Veritas, controlados por la Iglesia, proporcionaron una cobertura crucial de la campaña de la oposición
+unida. Mientras tanto, el Arzobispo Jaime Sin publicó una epístola pastoral instando a la población a que
+votara por candidatos que fueran honestos y que respetaran los derechos humanos. La Conferencia de
+Obispos Católicos de Filipinas instó a la población a que utilizara la resistencia no violenta en caso de que
+hubiera un resultado fraudulento, mientras el Movimiento para las Elecciones Libres adiestró a unos
+500.000 voluntarios para supervisar las elecciones como fiscales electorales.
+
+         Cuando Marcos se declaró ganador de las elecciones de 1986 a pesar de que los fiscales
+electorales afirmaban lo contrario, Cory Aquino lideró una manifestación que convocó a dos millones de
+filipinos, proclamando la victoria para ella y “el pueblo”. Condenando a Marcos, Aquino anunció una
+campaña de desobediencia civil no violenta denominada “el triunfo del pueblo”.97 El día después de la
+asunción presidencial de Marcos, los filipinos declararon una huelga general, un boicoteo de los medios de
+difusión estatales, un retiro en masa de fondos de los bancos controlados por los amigos de Marcos, el
+boicot de los negocios propiedad de los compinches de Marcos y otras acciones no violentas.98
+
+
+94
+    Schock, Unarmed Isurrections, pág. 69.
+95
+   Mendoza, “Civil Resistance, ‘People Power,’ and Democratization in the Philippines”.
+96
+   Schock, Unarmed Insurrections.
+97
+   Ibídem, pág. 77.
+98
+   Ibídem.
+                                                                                                          25
+        Cuando millones de estadounidenses vieron por televisión a los centenares de filipinos, incluidas
+monjas católicas, enfrentado los tanques, se volvió políticamente imposible para el Gobierno de los
+Estados Unidos seguir apoyando al régimen.99 La administración del Presidente Ronald Reagan se había
+cansado de Marcos y señaló su apoyo al movimiento opositor. El 25 de febrero, se formó un gobierno
+paralelo cuando Cory Aquino hizo el juramento presidencial. Esa noche, helicópteros de los Estados
+Unidos transportaron a Marcos y a treinta miembros de su familia y su séquito a una base aérea de los
+Estados Unidos, donde abordaron aviones que los llevaron a Hawaii. Aquino asumió la presidencia.
+Aunque ha habido problemas relacionados con la consolidación de la democracia en Filipinas desde 1986,
+la campaña de poder popular logró sacar del poder a la dictadura de Marcos.
+
+        FILIPINAS: FACTORES INTERNACIONALES. Ningún estado sancionó a Filipinas por las
+acciones de Marcos. El asesinato de Aquino, sin embargo, llevó al Departamento de Estado de los Estados
+Unidos a ayudar a los moderados de la oposición, presionar a Marcos para que ponga en marcha reformas
+y, posteriormente, garantizar su retiro a salvo del poder. Marcos accedió a dejar el poder solamente
+después de que el Gobierno de los Estados Unidos dejó en claro que no proporcionaría la ayuda militar y
+económica masiva que había mantenido su régimen en el poder, haciendo de esto un ejemplo clave de
+cómo una rebelión no violenta podía suscitar sanciones por parte de actores externos, aunque tales
+sanciones no se codificaran como sanciones oficiales en las Naciones Unidas ni en ninguna otra instancia
+internacional.
+
+        FILIPINAS: FACTORES INTERNOS. La guerra de guerrillas destinada a derrocar el régimen de
+Marcos en su mayoría no logró suscitar deserciones entre las fuerzas de seguridad. Sin garantía de
+seguridad física, no era fácil que las fuerzas de seguridad simpatizaran con movimientos violentos tales
+como el nuevo ejército del pueblo y el partido comunista de Filipinas. No sorprende, entonces, que
+Marcos lograra mandar a las fuerzas de seguridad a que reprimieran dichos movimientos, lo que ocasionó
+violaciones de los derechos humanos de guerrilleros y civiles en los pueblos cercanos.
+
+         Sin embargo, dentro de la desobediencia civil no violenta, miembros desvinculados de las fuerzas
+armadas que antes habían creado el Movimiento para la Reforma de las Fuerzas Armadas, liderados por el
+General Juan Ponce Enrile, planificaron un ataque contra el Palacio Malacanang para desalojar a Marcos
+de la presidencia. Cuando el régimen se enteró del plan de Enrile, los oficiales y soldados conspiradores se
+sublevaron y se atrincheraron en dos campos militares fuera de Manila. El General Fidel Ramos se unió al
+General Enrile, anunciando su deserción del régimen de Marcos y su respaldo a Aquino. En un giro
+notable de los acontecimientos, el arzobispo Sin instó a la población a que ayudara a los desertores
+militares. Decenas de miles de defensores de la democracia se congregaron y se negaron a abandonar las
+bases militares en donde los desertores se habían atrincherado, mientras cientos de miles de monjas,
+sacerdotes y civiles no armados formaron una barricada humana entre los tanques de Marcos y los
+desertores. En este empate, que fue transmitido por televisión en todo el mundo, las tropas del gobierno
+finalmente debieron retirarse y hubo posteriormente una sublevación de soldados y oficiales en todo el
+territorio nacional.
+
+
+
+99
+  Stephen Zunes, “The Origins of People Power in the Philippines”, en Zunes, Kurtz y Asher, Nonviolent Social Movements, pág.
+129 a 158.
+                                                                                                                          26
+        El carácter popular de la resistencia de la oposición legitimó la deserción entre las fuerzas de
+seguridad.100 Cuando el régimen ya no pudo confiar en grandes segmentos de las fuerzas armadas,
+mantener la solvencia económica, apaciguar a la poderosa Iglesia, o retener el respaldo económico y
+militar del gobierno de los Estados Unidos y otras entidades financieras internacionales, Marcos se vio
+obligado a aceptar la derrota.
+
+        Aunque el violento Partido Comunista Filipino contaba con defensores dentro de la Iglesia
+(notablemente entre los sacerdotes de rango inferior), con apoyo importante en la población y había
+forjado alianzas de vez en cuando con la oposición política reformista, a la larga el Partido Comunista se
+vio marginado debido a su uso de la lucha armada, su rigidez ideológica, su insistencia en el dominio del
+partido y su decisión de boicotear las elecciones.101
+
+         La represión de la oposición no violenta por parte de Marcos dio resultados negativos. El
+asesinato de Benigno Aquino en 1983 lo convirtió en mártir de la causa antimarquista en contra de
+Marcos. Aproximadamente 2 millones de filipinos de todos los estratos socioeconómicos se reunieron
+para ver pasar su procesión funeraria. La Iglesia Católica, cuya cúpula había participado en la
+“colaboración crítica” con el régimen de Marcos durante el período de ley marcial (aun cuando sectores de
+la Iglesia abiertamente se opusieron a Marcos desde el principio), comenzó a denunciar los abusos de los
+derechos humanos por parte del régimen. La poderosa comunidad comercial de Makati comenzó a
+organizar manifestaciones y reuniones semanales en distritos comerciales de Manila en contra de Marcos.
+
+        Entretanto, la resistencia no violenta con la participación de todos los grupos de la sociedad seguía
+desafiando el poder de Marcos utilizando medios no institucionales. Las “lakbayan” (marchas populares
+por la libertad), manifestaciones masivas que llegaron a conocerse como “parlamentos callejeros” y
+“wlegang vayan” (huelgas populares) eran solo algunas de las tácticas empleadas durante esta fase de
+aumento de la lucha. En 1984, las huelgas populares paralizaron las ciudades, sobre todo el sector del
+transporte. Entretanto, los campesinos marcharon hacia las áreas urbanas y organizaron sentadas. Los
+dirigentes de la Iglesia reunieron activamente a políticos de la oposición y miembros de la comunidad
+comercial.102 Los elementos más progresistas de la Iglesia se aliaron con grupos de base y organizaron
+Comunidades Cristianas Básicas en las áreas rurales, reforzando el esfuerzo de movilización de la Iglesia
+y restando reclutas potenciales a la resistencia guerrillera.103
+
+        Como sucedió también en Timor Oriental, la cobertura de los medios de difusión de la represión
+estatal de las campañas no violentas causó reacciones negativas contra el régimen, lo que produjo
+movilizaciones masivas, cambios de lealtad entre las fuerzas civiles y de seguridad, y presión sobre el
+régimen para aceptar la derrota.
+
+BIRMANIA, 1988-1990
+
+        En 1988, los grupos de oposición birmanos lanzaron una insurrección civil masiva que representó
+un reto sin precedentes para la dictadura que había llegado al poder después de un golpe de estado en
+
+100
+    Mendoza, “Civil Resistance, ‘People Power,’ and Democratization in the Philippines”.
+101
+    Ibídem; and Schock, Unarmed Insurrections.
+102
+    Mendoza, “Civil Resistance, ‘People Power,’ and Democratization in the Philippines”; y Schock, Unarmed Insurrections.
+103
+    Schock, Unarmed Insurrections, pág. 72.
+                                                                                                                            27
+1962. Lo que comenzó como una serie de protestas espontáneas lideradas por estudiantes contra la
+violencia policíaca en Rangoon, se convirtió rápidamente en una campaña nacional para desmantelar una
+dictadura de 26 años y restaurar la democracia. A pesar de algunas concesiones temporales otorgadas por
+el régimen, incluidas las elecciones multipartidarias en 1990,104 ganadas por el partido de oposición la
+Liga Nacional para la Democracia, se puede caracterizar la campaña mayormente como un fracaso, puesto
+que Birmania sigue siendo una dictadura altamente represiva.
+
+        La democracia birmana posindependencia fue destrozada in 1962 después de un golpe militar que
+llevó al poder al General Ne Win. Desde entonces, las fuerzas militares han dominado la política y
+economía de Birmania. La corrupción y la mala gestión han sido generalizadas, y las protestas esporádicas
+se encontraron con una respuesta armada masiva. En 1988, tras el asesinato de un estudiante birmano a
+manos de guardias de asalto, hubo manifestaciones masivas lideradas por estudiantes. Centenares de
+estudiantes murieron, miles fueron detenidos y se cerraron las universidades. Los estudiantes salieron a la
+calle de nuevo para demandar la reapertura de las universidades y el castigo de los responsables de la
+masacre de los estudiantes. Hubo choques entre los estudiantes y las fuerzas de seguridad, lo que causó
+más muertos y la prohibición de las reuniones públicas.
+
+        Después de una reorganización burocrática en la cual el general Ne Win anunció que dejaría su
+cargo de presidente y líder del Partido del Programa Socialista Birmano, el congreso birmano nombró al
+responsable de la masacre de Rangoon nuevo presidente del partido. La oposición respondió con una
+huelga nacional y protestas masivas el 8 de agosto de 1988. Centenares de jóvenes, monjes, trabajadores,
+funcionarios públicos, desempleados y miembros de todos los diferentes grupos étnicos y sectores de la
+sociedad participaron en las manifestaciones, exigiendo el fin del régimen militar y el nombramiento de
+un gobierno interino con el propósito de poner en marcha el proceso de convocar a elecciones
+multipartidarias.
+
+         La respuesta de las unidades de las fuerzas armadas birmanas a la huelga general fue la de abrir
+fuego contra los manifestantes con armas automáticas, matando a centenares en Rangoon. Hubo
+represiones similares en otras partes de Birmania, con un saldo de más de 1.000 manifestantes muertos en
+tres días.105 Durante esta insurrección, los monjes budistas se unieron a los estudiantes y los trabajadores
+industriales en las manifestaciones; en algunos lugares, los monjes se hicieron cargo de la administración
+de ciudades y pueblos.
+
+
+104
+    Este estudio de caso no incluye la Revolución de Azafrán de agosto a octubre del 2007. Esta insurrección popular fue causada
+por el alto precio del combustible, produciendo las protestas más amplias y más sostenidas contra el SPDC desde 1988. Las
+acciones represivas contra las protestas pacíficas por parte del régimen suscitaron duras críticas de gropos a favor de los derechos
+humanos, gobiernos, el Consejo de Seguridad de las Naciones Unidas e instancias regionales, las cuales intensificaron las
+presiones políticas, diplomáticas y económicas contra la junta. El representante especial de las Naciones Unidas ante el gobierno
+de Birmana ha instado al SPDC a que abra un diálogo significativo con la líder detenida de la oposición Aung San Suu Kyi para
+liberar todos los prisioneros políticos y redactar una nueva constitución, la cual será sometida a un referéndum nacional en mayo
+del 2008, seguido por su ratificación y elecciones democráticas multipartidarias en el 2010, la primera elección general en 20
+años. No se sabe cuáles son las repercusiones políticas de la Revolución de Azafrán. Para más información sobre esta campaña,
+véase Daya Gamage, “Latest Visit to Burma Yielded No ‘Immediate Tangible Outcome,’ Gambari Tells UN Security Council”,
+Asian Tribune, Vol. 7, No. 1 (21 de marzo del 2008), http://www.asiantribune.com/?q_node/10128. Para un análisis de la
+Revolución de Azafrán de 2007, véase International Federation for Human Rights, “Burma’s ‘Saffron Revolution’ Is Not Over:
+Time for the International Community to Act”, diciembre del 2007, http://www.fidh.org/IMG/pdf/BURMA-DEC2007.pdf.
+105
+    Los manifestantes se defendieron con las armas que podían improvisar.	  Sharp, Waging Nonviolent Struggle, pág. 246 y 247.
+                                                                                                                                  28
+         En 1990 se celebraron elecciones multipartidarias en Birmania y el partido de la oposición obtuvo
+80% de los votos, a pesar de la constante represión. Los resultados sacudieron al consejo estatal para la
+restauración de la ley y el orden, liderado por los militares, el cual se negó a aceptarlos. Pusieron a la líder
+de la liga nacional para la democracia, Aung San Suu Kyi, bajo arresto domiciliario en julio de 1990 y
+mataron o detuvieron a muchos de los activistas jóvenes de la liga. Entretanto, la resistencia guerrillera en
+las zonas fronterizas no logró establecerse. Por el contrario, las zonas armadas que estaban antes en manos
+de los ejércitos guerrilleros fueron en su mayoría conquistadas por las fuerzas armadas birmanas.106
+
+         La oposición fue en su mayoría desmovilizada y no pudo resistir las elecciones fraudulentas por
+medio de campañas de no cooperación. Había pocas señales de deserciones del régimen, a pesar de la
+deserción breve de varios centenares de tropas de la Fuerza Aérea en 1988.107 Aung San Suu Kyi buscó
+sin éxito entablar el diálogo con los líderes militares sobre reformas democráticas. Muchos de los líderes
+de la liga nacional fueron encarcelados o exiliados. De vez en cuando se liberaron algunos prisioneros
+políticos, a menudo en coincidencia con visitas de dignatarios extranjeros o de funcionarios de las
+Naciones Unidas. El consejo estatal de restauración de la ley y el orden, que pasó a llamarse Consejo
+Estatal por la Paz y el Desarrollo, sigue en control.
+
+         BIRMANIA: FACTORES INTERNACIONALES.        La causa a favor de la democracia birmana atrajo
+mucha atención internacional. Por ejemplo, Aung San Suu Kyi ganó el Premio Nobel de la Paz en 1991.
+Aunque los Estados Unidos sancionaron a Birmania por los abusos de los derechos humanos contra líderes
+de la oposición, las sanciones no significaron una gran ventaja para la oposición no violenta. De hecho,
+donde los Estados Unidos impusieron sanciones, el régimen birmano simplemente sustituyó los productos
+con importaciones de otros donantes extranjeros, entre ellos China e India, lo cual socavó el impacto de
+estas medidas sobre la voluntad de reforma del régimen. Además, se podría incluso sostener que las
+sanciones de los Estados Unidos eran en realidad débiles, ya que no incluyeron a las subsidiarias de
+empresas estadounidenses. Por lo tanto, de manera congruente con nuestros resultados del estudio con
+muestra asintótica, las sanciones internacionales no elevaron el costo político de la represión de la
+oposición no violenta para el régimen birmano.
+
+BIRMANIA: FACTORES INTERNOS.     La campaña birmana en contra del Consejo estatal de restauración de la
+ley y el orden no logró aumentar adecuadamente el costo interno de la represión por parte del régimen.
+Entre otras cosas, la campaña no violenta no logró producir cambios de lealtad dentro de las fuerzas de
+seguridad (ni tampoco entre los burócratas dentro del régimen) de manera significativa. La oposición no
+violenta no se presentaba como una alternativa política viable a la junta y no logró modificar de manera
+significativa la ecuación de autointerés de las fuerzas de seguridad, quienes no vieron incentivos para
+cuestionar o desobedecer las órdenes del régimen. El régimen, además, logró dividir y neutralizar grupos
+de monjes budistas, previniendo su presentación como un frente unido. Algunas insurgencias étnicas
+violentas se habían beneficiado de las deserciones de las fuerzas militares birmanas, incluida la notable
+deserción del Coronel Sai Yee, un comandante del Ejército Nacional Estatal de Shan en el 2005.108 Sin
+
+106
+    Ibídem, pág. 249; y Michael Beer, “Violent and Nonviolent Struggle in Burma: Is a United Strategy Workable?” en Zunes,
+Kurtz y Asher, Nonviolent Social Movements, pág. 174 a 185.
+107
+    Sharp, Waging Nonviolent Struggle, pág. 248.
+108
+    Tin Maung Maung Than, “Myanmar: Challenges Galore but Opposition Failed to Score”, en Daljit Singh y Lorraine C.
+Salazar, eds., Southeast Asian Affairs, 2006 (Singapore: Institute of Southeast Asian Studies, 2007), pág. 186 a 207.
+                                                                                                                             29
+embargo, estas deserciones, raras pero notables, no incidieron tampoco en los resultados de las
+insurgencias violentas, ya que sus operaciones contra el régimen birmano fueron en gran medida en vano.
+
+        Al principio, la movilización no violenta contra el régimen birmano fue masiva y de todos los
+sectores. Pero la dependencia excesiva en personalidades únicas, la incapacidad de lograr la reconciliación
+de facciones en competencia y la falta de información congruente sobre abusos de los derechos humanos
+dejaron a la campaña no violenta de la oposición en un estado de confusión. Las campañas violentas no
+han tenido éxito en Birmania por su incapacidad de movilizar a las masas, construyendo pequeñas
+unidades guerrilleras con una base de apoyo pasivo dividido por cuestiones étnicas.
+
+        Después de las masacres del 8 de agosto de 1988, se abrió un espacio político: el gobierno levantó
+la ley marcial, liberó algunos prisioneros políticos y retiró las fuerzas militares de las ciudades. El
+movimiento a favor de la democracia aprovechó el espacio político más amplio con más de un millón de
+birmanos protestando en Rangoon y otras ciudades. Miles de birmanos renunciaron al partido socialista
+birmano y quemaron sus credenciales de membresía. Estudiantes, monjes y trabajadores organizaron
+“comités generales de huelga” y “consejos de ciudadanos” para manejar los asuntos cotidianos en decenas
+de ciudades y pueblos, convirtiéndose en una especie de gobierno paralelo a nivel local. Incluso algunos
+soldados de la fuerza aérea participaron en las protestas, aunque las deserciones fueron raras.109 Un día
+después, el partido en el poder y el parlamento hicieron un llamado a elecciones generales
+multipartidarias.
+
+        Justo cuando la victoria del movimiento a favor de la democracia parecía inminente, los líderes de
+la oposición peleaban sobre quién lideraría el nuevo gobierno democrático. Mientras que las élites de la
+oposición se distraían en debates internos, las fuerzas armadas birmanas atestaron otro golpe, creando el
+Consejo de restauración de la ley y el orden el 18 de septiembre. El consejo de restauración reimpuso la
+ley marcial, prohibiendo las asambleas de más de cinco personas. Protestantes desarmados fueron
+fusilados en las calles y miles más fueron detenidos o “desaparecidos”.
+
+        A medida que el Consejo de restauración de la ley y el orden aumentó la violencia, las
+manifestaciones de la oposición desaparecieron y la huelga general terminó. Miles de estudiantes huyeron
+a las zonas fronterizas controladas por rebeldes de otros grupos étnicos e intentaron lanzar una lucha
+contra la dictadura.110 Las noticias de los medios de difusión sobre los abusos continuos de los derechos
+humanos no eran nada fuera de lo común.
+
+         Un pequeño grupo de líderes de la oposición se unió para formar la Liga Nacional para la
+Democracia y se registró como partido político. La secretaria general de la liga, Aung San Suu Kyi,
+recorrió el país exigiendo la democracia multipartidaria en contravención de la prohibición de las
+reuniones públicas, abogando por la unidad nacional y la disciplina no violenta. Para mediados de 1989,
+sin embargo, el Consejo de restauración de la ley y el orden había intensificado su campaña de
+intimidación contra Aung San Suu Kyi y el liderazgo de la liga nacional para la democracia. Rehusando
+reconocer la victoria electoral de la liga de 1990, el consejo de restauración puso a Aung San Suu Kyi bajo
+arresto domiciliario, dejando sin líder a la campaña de resistencia no violenta.
+
+109
+      Sharp, Waging Nonviolent Struggle, pág. 248.
+110
+      Ibídem.
+                                                                                                        30
+RESUMEN DE LOS ESTUDIOS DE CASO: EXPLICACIÓN DEL ÉXITO Y FRACASO DE LAS CAMPAÑAS
+
+         El análisis de estos tres casos trae a la luz varias ideas sobre los resultados de campañas en
+general. Primero, en los tres casos, las campañas violentas generalmente no lograron elevar los costos
+políticos de la represión. Aunque ciertas personas pueden simpatizar con los insurgentes violentos,
+ninguno de nuestros casos refleja ayuda material o sanciones internacionales a su favor. A pesar de que el
+apartado cuantitativo reveló poco respaldo para la noción de que las sanciones o la asistencia externa
+ayuda a las campañas no violentas, nuestros estudios de caso muestran que la presión oportuna o el retiro
+de apoyo por parte de importantes actores internacionales modificaron el rumbo de las campañas en
+Filipinas y Timor Oriental.
+
+        Segundo, las campañas que no generan cambios de lealtad dentro de las fuerzas de seguridad o la
+burocracia civil es poco probable que tengan éxito. Nuestro estudio con muestra asintótica sugiere que es
+más probable que las campañas no violentas tengan éxito ante la represión salvaje, probablemente porque
+son más propensas a generar reacciones negativas. Además, encontramos en nuestro estudio que aunque
+las deserciones entre las fuerzas de seguridad frecuentemente son cruciales para el éxito de las campañas
+no violentas, no necesariamente ocurren durante las campañas no violentas. Y en nuestros estudios de
+caso, no hubo cambios de lealtad importantes dentro de las fuerzas de seguridad en Birmania. Este caso
+que se aparta de lo previsto brinda discernimientos sobre variables importantes que no fueron analizadas
+en el estudio con muestra asintótica. Tres de estas variables son la movilización masiva, la
+descentralización de la campaña y las estrategias en cuanto a los medios de difusión.
+
+        La movilización masiva, especialmente la movilización donde la participación es amplia y la
+campaña no depende de un líder único, ocurrió en los dos casos de campañas exitosas. Esta movilización
+era más común en las campañas no violentas que en las violentas, cuyos miembros eran menos pero más
+homogéneos. En efecto, en los casos de Timor Oriental y Filipinas, la represión contra la resistencia no
+violenta generó reacciones negativas, provocando movilizaciones masivas, las cuales por su parte elevaron
+los costos de la represión de los regímenes. En ambos casos, el precio fue alto para los regímenes: las
+fuerzas de seguridad cambiaron su lealtad hacia la campaña de resistencia no violenta y la comunidad
+internacional reaccionó fuertemente contra los regímenes.
+
+        En Birmania, por otro lado, tanto las campañas violentas como las no violentas no lograron elevar
+el costo de la represión por parte del régimen a tal grado que su control se viera amenazado. Aunque
+Birmania ha sufrido sanciones, los costos internos de la represión no eran suficientes para generar los
+resultados deseados y la movilización fue selectiva y dependiente del líder.111
+
+         Estos resultados sugieren la necesidad de hacer agregados importantes a nuestro estudio: la
+incorporación de variables sobre el grado y la naturaleza de la movilización masiva, y el papel de los
+medios y las estrategias de comunicación. La movilización puede ser un determinante crucial del éxito, ya
+que una campaña amplia, transversal y descentralizada puede ser más eficaz para elevar los costos
+políticos de la represión por su resistencia, su atractivo para las masas y su anonimato. Nuestros hallazgos
+
+
+111
+   Martin, Justice Ignited. En el modelo de reacción negativa, la cobertura de los medios de difusión refleja la falta del régimen
+de ocultar sus acciones más vergonzosas.
+                                                                                                                                 31
+también sugieren que la cobertura de los medios de difusión es crucial para que se generen reacciones
+negativas, como lo han sostenido otros.112
+
+Conclusiones y repercusiones
+
+        La afirmación central de este estudio es que los métodos de resistencia no violenta tienen más
+probabilidad de éxito que los violentos en alcanzar objetivos estratégicos. Se han comparado los
+resultados de 323 campañas de resistencia violenta y no violenta desde 1900 hasta el 2006, y se han
+comparado estos hallazgos del estudio con muestra asintótica con estudios de caso comparativos de
+campañas no violentas en Asia suroriental.
+
+        Sobre la base de la investigación estadística y cualitativa, podemos hacer algunas afirmaciones.
+En primer lugar, las campañas de resistencia que impulsan cambios de lealtad entre las fuerzas de
+seguridad y los burócratas civiles tienen buenas probabilidades de éxito. Este tipo de éxito operativo
+ocurre de vez en cuando en las campañas violentas, pero las no violentas tienen más probabilidades de
+generar cambios de lealtad. Aunque estos hallazgos están cualificados por limitaciones en los datos en el
+estudio cuantitativo, nuestros estudios de caso revelan que tres campañas violentas no pudieron generar
+cambios significativos de lealtad entre las élites opositoras, mientras que tales cambios sí ocurrieron como
+resultado de la acción no violenta en Filipinas y Timor Oriental. Además, la represión contra las campañas
+no violentas en Filipinas y Timor Oriental dio por resultado oportunas sanciones internacionales contra el
+régimen opositor, lo cual resultó instrumental en el éxito de estas campañas no violentas. Los costos
+nacionales e internacionales de la represión de las campañas no violentas son más altos que para la
+represión de las violentas.
+
+        Nuestros estudios de caso también sugieren que es probable en primer lugar que las campañas
+violentas y no violentas que no alcanzan una movilización generalizada, transversal y descentralizada no
+impulsen deserciones ni provoquen sanciones internacionales. Las campañas de base amplia tienen más
+probabilidades de poner en tela de juicio la legitimidad del oponente. Los costos políticos de reprimir una
+o dos docenas de activistas, fácilmente denominados “extremistas”, son más bajos que los de reprimir
+centenares o miles de activistas que representan la población entera.
+
+         Se necesita una mayor investigación para desarrollar mediciones del grado y la naturaleza de las
+movilizaciones masivas a lo largo del tiempo. Debe ser posible medir el nivel de participación en una
+campaña no violenta, incluido qué tan amplia es la resistencia en términos de región geográfica, sector y
+aspectos demográficos. El grado de unidad dentro de la oposición no violenta es otro factor interno
+importante que se podría evaluar empíricamente.113 Además, se podría medir la diversificación de las
+tácticas no violentas para determinar si al ampliar el repertorio de tácticas no violentas o su secuencia se
+refuerza el éxito de los movimientos no violentos.114
+
+        Además de estas recomendaciones para investigaciones futuras, nuestros hallazgos también
+sugieren varias implicaciones políticas. Primero, aunque no hay un camino seguro al éxito, las campañas
+
+
+112
+      Martin y Varney, “Nonviolent Communication.”
+113
+      Agradecemos a Howard Clark sus sugerencias en cuanto a variables internos adicionales.
+114
+      Ackerman y Kruegler, Strategic Nonviolent Conflict; y Helvey, On Strategic Nonviolent Conflict.
+                                                                                                         32
+no violentas que cumplen los criterios anteriores tienen más probabilidades de éxito que las campañas
+violentas con características semejantes. Segundo, las formas enfocadas de apoyo externo resultaron útiles
+en los casos de Timor Oriental y Filipinas. Aunque no hay pruebas de que los actores externos puedan
+lanzar o sostener movilizaciones masivas no violentas, los grupos solidarios organizados que seguían
+manteniendo presión sobre los gobiernos aliados con los regímenes objetivo ayudaban, lo cual sugiere que
+los grupos internacionales pueden aumentar la influencia de la campaña sobre el blanco.115 La ayuda
+externa, sin embargo, puede resultar contraproducente si, por asociación, daña la credibilidad de un
+movimiento. Tercero, dado el papel crucial de los medios de difusión en la facilitación de reacciones
+negativas, apoyar la creación y el mantenimiento de fuentes independientes de medios de difusión y
+tecnología que permitan que los actores no violentos se comuniquen entre sí interna y externamente es
+otra manera de facilitar apoyo para las campañas no violentas por parte de los actores gubernamentales y
+no gubernamentales. Cuarto, la construcción de capacidades en la vigilancia de las elecciones y la
+documentación del respeto de los derechos humanos son herramientas útiles para los activistas no
+violentos. Quinto, se ha destacado la provisión de materiales educativos (por ejemplo, libros, películas,
+DVD y videojuegos) que subrayan las lecciones aprendidas de otros movimientos históricos no violentos
+como cruciales para la movilización.116 Los indicios crecientes del uso por parte de los regímenes no
+democráticos de la vigilancia por Internet, de leyes prohibitivas en contra de organizaciones no
+gubernamentales nacionales e internacionales y las amenazas y la intimidación más tradicionales dirigidas
+a grupos de la sociedad civil probablemente crearán otros retos para los que están comprometidos con el
+cambio político por medios no violentos.117
+
+         En última instancia, vale recordar las obras de Thomas Schelling sobre la dinámica de un
+conflicto entre oponentes violentos y no violentos: “[El] tirano y sus súbditos se encuentran en posiciones
+algo simétricas. Ellos le pueden negar la mayor parte de lo que él quiere; pueden hacerlo, eso es, si tienen
+la disciplina y organización para negarse a colaborar. Y él les puede negar casi todo lo que ellos quieren,
+él lo puede hacer utilizando la fuerza que tiene a su mando… Ellos le pueden negar la satisfacción de
+gobernar un país disciplinado. Él les puede negar la satisfacción de gobernarse a sí mismos… Es una
+situación de regateo en la que cualquiera de las dos partes, si es suficientemente disciplinada y organizada,
+puede negarle a la otro casi todo lo que quiere y queda por verse quién ganará”.118
+
+
+
+
+115
+    Véase, por ejemplo, Liam Mahoney y Luis Enrique Eguren, Unarmed Bodyguards: International Accompaniment for the
+Protection of Human Rights (Bloomfield, Conn.: Kumarian, 1997).
+116
+    Por ejemplo, el movimiento de oposición de Serbia utilizó las obras de Gene Sharp durante los entrenamientos de activistas
+durante el período anterior al desalojamiento no violento del líder de Serbia Slobodan Milošević. Se mostró la película
+documental Bringing Down a Dictator (sobre el movimiento de Serbia) en la televisión pública en Georgia y Ucrania antes y
+durante las revoluciones electorales en aquellos países.
+117
+    National Endowment for Democracy, “The Backlash against Democracy Assistance”, informe preparado para el Senador
+Richard Lugar, presidente del Comité de Relaciones Extranjeras, Senado de los Estados Unidos, 8 de junio del 2006; Carl
+Gershman y Michael Allen, “The Assault on Democracy Assistance”, Journal of Democracy, Vol. 17, No. 2 (abril del 2006), pág.
+38; Thomas Carothers, “The Backlash against Democracy Promotion”, Foreign Affairs, Vol. 85, No. 2 (marzo–abril del 2006),
+pág. 55–68; and Regine Spector y Andrej Krickovic, “Authoritarianism 2.0: Non-Democratic Regimes Are Upgrading and
+Integrating Globally”, trabajo presentado en la reunión anual de la International Studies Association, San Francisco, California, 26
+de marzo del 2008.
+118
+    Thomas C. Schelling, “Some Questions on Civilian Defense”, en Adam Roberts, ed., Civilian Resistance as a National
+Defense: Nonviolent Action against Aggression (Harrisburg, Pa.: Stackpole, 1967), pág. 351 a 352.
+                                                                                                                                 33
+
